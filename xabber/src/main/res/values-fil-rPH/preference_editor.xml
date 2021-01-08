@@ -22,7 +22,7 @@
     <string name="debug_log_files_title">Mga files ng tala\nListahan ng mga nasulat na mga files ng tala.</string>
     <string name="debug_log_files_activity_title">Mga files ng tala</string>
     <string name="debug_connection_errors_title">Ipakita ang mga mali sa koneksyon\nI-displey ang mga pop-ups ng mga liban sa koneksyon</string>
-    <string name="debug_crash_reports_title">Ibahagi ang crash at mga diagnostiko na datos\nTulungan ang mga naglinang ng app na mapabuti ang Xabber sa pamamagitan ng pagpapahintulot na ibahagi ang crash at mga diagnostiko na datos sa kanila (mangyaring i-restart ang aplikasyon para ma-apply ang mga pagbabago).</string>
+    <string name="debug_crash_reports_title">Ibahagi ang crash at mga diagnostiko na datos\nTulungan ang mga naglinang ng app na mapabuti ang Qtunr sa pamamagitan ng pagpapahintulot na ibahagi ang crash at mga diagnostiko na datos sa kanila (mangyaring i-restart ang aplikasyon para ma-apply ang mga pagbabago).</string>
     <string name="debug_crash_reports_dialog_title">Crash at mga diagnostiko na datos</string>
     <string name="debug_crash_reports_dialog_settings_button">Mga settings</string>
     <string name="interface_theme">Tema</string>

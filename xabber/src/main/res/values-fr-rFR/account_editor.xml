@@ -84,10 +84,10 @@
     <string name="account_mam_sync_current">Charger l\'historique uniquement pour les conversations ouvertes</string>
     <string name="account_mam_sync_none">Ne pas charger l\'historique pour tout le monde</string>
     <string name="account_clear_history_on_exit_title">Effacer l\'historique en quittant</string>
-    <string name="account_clear_history_on_exit_summary">Supprimer tous les messages de l\'appareil avant de quitter Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Supprimer tous les messages de l\'appareil avant de quitter Qtunr.</string>
     <string name="account_bookmarks">Marque-pages</string>
     <string name="account_bookmarks_summary">Liste des marque-pages pour ce compte</string>
     <string name="account_sync">Synchronisation</string>
-    <string name="account_sync_summary">Synchronisation avec le compte Xabber</string>
+    <string name="account_sync_summary">Synchronisation avec le compte Qtunr</string>
     <string name="bookmark_not_supported">Le serveur ne prend pas en charge les marque-pages.</string>
 </resources>

@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Λήψη όλων των μηνυμάτων από αρχειοθέτηση\nΣυνάρτηση αποσφαλμάτωσης. Ίσως λειτουργεί με σφάλματα</string>
     <string name="debug_log_files_activity_title">Αρχεία καταγραφής</string>
     <string name="debug_connection_errors_title">Εμφάνιση σφαλμάτων σύνδεσης\nΕμφάνισε εξαιρέσεις σύνδεσης σε αναδυόμενα παράθυρα</string>
-    <string name="debug_crash_reports_title">Διαμοιρασμός δεδομένων συντριβής και διαγνωστικών\nΒοηθήστε τους προγραμματιστές της εφαρμογής να βελτιώσουν το Xabber επιτρέποντας τον διαμοιρασμό δεδομένων συντριβής και διαγνωστικών μαζί τους (παρακαλώ επανεκκινήστε την εφαρμογή για να εφαρμοστούν οι αλλαγές).</string>
+    <string name="debug_crash_reports_title">Διαμοιρασμός δεδομένων συντριβής και διαγνωστικών\nΒοηθήστε τους προγραμματιστές της εφαρμογής να βελτιώσουν το Qtunr επιτρέποντας τον διαμοιρασμό δεδομένων συντριβής και διαγνωστικών μαζί τους (παρακαλώ επανεκκινήστε την εφαρμογή για να εφαρμοστούν οι αλλαγές).</string>
     <string name="debug_crash_reports_dialog_title">Δεδομένα συντριβής και διαγνωστικών</string>
-    <string name="debug_crash_reports_dialog_message">Το Xabber συλλέγει αναφορές σφαλμάτων ανώνυμα. Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις εντοπισμού σφαλμάτων, αλλά αυτό θα εμποδίσει την ικανότητά μας να παρέχουμε αξιόπιστη εμπειρία μηνυμάτων στους χρήστες Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Το Qtunr συλλέγει αναφορές σφαλμάτων ανώνυμα. Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις εντοπισμού σφαλμάτων, αλλά αυτό θα εμποδίσει την ικανότητά μας να παρέχουμε αξιόπιστη εμπειρία μηνυμάτων στους χρήστες Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Ρυθμίσεις</string>
     <string name="events_persistent">Εικονίδιο γραμμής εργασιών\nΔείξε επίμονα τις ειδοποιήσεις. Αυτή η επιλογή αποτρέπει το Android από το ξεφόρτωμα της εφαρμογής από τη μνήμη</string>
     <string name="events_vibro">Δόνηση</string>
@@ -37,7 +37,7 @@
     <string name="interface_smiles_none">Μη γραφικά emoticons</string>
     <string name="preference_connection">Ρυθμίσεις σύνδεσης\nΡυθμίσεις σύνδεσης</string>
     <string name="preference_contacts">Λίστα επαφών\nΠροσαρμογή εμφάνισεις της λίστας επαφών</string>
-    <string name="preference_debug">Ρυθμίσεις επασφαλμάτωσης\nΡυθμίσεις που βοηθούν τους προγραμματιστές να βελτιώσουν το Xabber</string>
+    <string name="preference_debug">Ρυθμίσεις επασφαλμάτωσης\nΡυθμίσεις που βοηθούν τους προγραμματιστές να βελτιώσουν το Qtunr</string>
     <string name="preference_editor">Ρυθμίσεις</string>
     <string name="preference_events">Ειδοποιήσεις\nΡυθμίσεις ειδοποιήσεων</string>
     <string name="preference_interface">Ρυθμίσεις θέματος\nΡυθμίσεις εμφάνισης</string>
@@ -66,7 +66,7 @@
     <string name="connection_go_away_immediately">Αμέσως μετά την οθόνη κλειδώματος</string>
     <string name="connection_go_xa">«Εκτεταμμένα μακριά» κατά την αδράνεια\nΘέσε «Εκτεταμμένα μακριά» κατά το κλείδωμα της οθόνης</string>
     <string name="connection_priority">Ρυθμίσεις προτεραιότητας</string>
-    <string name="connection_start_at_boot">Έναρξη όταν το Android εκκινείs\nΕκκινεί την εφαρμογή κατά την εκκίνηση του Android. Αυτό δεν λειτουργεί όταν το Xabber έχει εγκατασταθεί στην κάρτα SD.</string>
+    <string name="connection_start_at_boot">Έναρξη όταν το Android εκκινείs\nΕκκινεί την εφαρμογή κατά την εκκίνηση του Android. Αυτό δεν λειτουργεί όταν το Qtunr έχει εγκατασταθεί στην κάρτα SD.</string>
     <string name="connection_wake_lock">Αποτροπή κατάστασης ύπνου\nΑπότροπή της συσκευής από την κατάσταση ύπνου. Αυτό θα αυξήσει την κατανάλωση μπαταρίας.</string>
     <string name="connection_wifi_lock">Κράτησε ενεργό το Wi-Fi\nΚράτησε ενεργό το Wi-Fi Wi-Fi σε κατάσταση αναμονής. Αυτό θα αυξήσει τη χρήση της μπαταρίας</string>
     <string name="contacts_reset_offline">Επαναφορά ρυθμίσεων χωρίς σύνδεση\nΚαθαρισμός μεμονωμένων ρυθμίσεων για ομάδες και λογαριασμούς</string>

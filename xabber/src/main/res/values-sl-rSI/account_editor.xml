@@ -90,10 +90,10 @@
     <string name="account_mam_sync_current">Naloži zgodovino le za dejavne pogovore</string>
     <string name="account_mam_sync_none">Ne naloži nobene zgodovine</string>
     <string name="account_clear_history_on_exit_title">Ob izhodu počisti zgodovino</string>
-    <string name="account_clear_history_on_exit_summary">Izbriši vsa sporočila klepeta iz naprave ko zaprete program Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Izbriši vsa sporočila klepeta iz naprave ko zaprete program Qtunr.</string>
     <string name="account_bookmarks">Zaznamki</string>
     <string name="account_bookmarks_summary">Seznam zaznamkov za ta račun</string>
     <string name="account_sync">Usklajevanje</string>
-    <string name="account_sync_summary">Usklajevanje z računom Xabber</string>
+    <string name="account_sync_summary">Usklajevanje z računom Qtunr</string>
     <string name="bookmark_not_supported">Strežnik ne podpira zaznamkov</string>
 </resources>

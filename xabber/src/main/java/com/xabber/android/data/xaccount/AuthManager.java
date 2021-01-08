@@ -30,7 +30,7 @@ public class AuthManager {
     public static final String PROVIDER_TWITTER = "twitter";
     public static final String PROVIDER_GOOGLE = "google";
 
-    private static final String SOURCE_NAME = "Xabber Android";
+    private static final String SOURCE_NAME = "Qtunr Android";
 
     public static Single<XAccountTokenDTO> login(String login, String pass) {
         SettingsManager.setSyncAllAccounts(true);

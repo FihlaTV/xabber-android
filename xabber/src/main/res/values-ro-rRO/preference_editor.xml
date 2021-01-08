@@ -17,9 +17,9 @@
     <string name="debug_log_files_title">Fișiere log\nListă cu fișiere de tip jurnal.</string>
     <string name="debug_log_files_activity_title">Fișiere jurnal</string>
     <string name="debug_connection_errors_title">Arată erorile de conexiune\nAfișează pop-up cu erorile de conexiune</string>
-    <string name="debug_crash_reports_title">Trimite erori și informații diagnosticare\nAjută dezvoltatorul de aplicatii să îmbunătațească Xabber prin trimiterea erorilor și a informațiilor de diagnosticare (necesită restartarea aplicației).</string>
+    <string name="debug_crash_reports_title">Trimite erori și informații diagnosticare\nAjută dezvoltatorul de aplicatii să îmbunătațească Qtunr prin trimiterea erorilor și a informațiilor de diagnosticare (necesită restartarea aplicației).</string>
     <string name="debug_crash_reports_dialog_title">Erori și informații diagnosticare</string>
-    <string name="debug_crash_reports_dialog_message">Xabber colectează rapoarte de erori anonime. Puteți să o dezactivați în setările de depanare, dar aceasta va împiedica capacitatea noastră de a furniza experiență de mesagerie fiabilă utilizatorilor Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr colectează rapoarte de erori anonime. Puteți să o dezactivați în setările de depanare, dar aceasta va împiedica capacitatea noastră de a furniza experiență de mesagerie fiabilă utilizatorilor Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Setări</string>
     <string name="events_persistent">Icon notificare\nArată notificare persistentă. Această opțiune previne închiderea aplicației de către sistem</string>
     <string name="interface_theme_dark">Întunecat</string>

@@ -7,7 +7,7 @@ import java.util.List;
 public class SessionsIQ extends IQ {
 
     public static final String ELEMENT   = "x";
-    public static final String NAMESPACE = "http://xabber.com/protocol/auth-tokens#items";
+    public static final String NAMESPACE = "http://qtune.io/protocol/auth-tokens#items";
 
     private final List<Session> sessions;
 

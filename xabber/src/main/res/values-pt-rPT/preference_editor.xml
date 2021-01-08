@@ -21,7 +21,7 @@
     <string name="interface_smiles_none">Sem ícones de expressão gráficos</string>
     <string name="preference_connection">Definições de ligação\nDefinições de ligação</string>
     <string name="preference_contacts">Lista de contactos\nPersonalize a a aparência da lista de contactos</string>
-    <string name="preference_debug">Definições da depuração\nDefinições para ajudar os programadores a melhorar a Xabber</string>
+    <string name="preference_debug">Definições da depuração\nDefinições para ajudar os programadores a melhorar a Qtunr</string>
     <string name="preference_editor">Definições</string>
     <string name="preference_events">Notificações\nDefinições da notificação</string>
     <string name="preference_interface">Definições de tema\nDefinições de aparência</string>
@@ -38,7 +38,7 @@
     <string name="connection_go_away_immediately">Imediatamente ao bloquear o ecrã</string>
     <string name="connection_go_xa">\"Ausência prolongada\" quando inativo\nDefine \"Ausência prolongada\" ao bloquear o ecrã</string>
     <string name="connection_priority">Definições de prioridade</string>
-    <string name="connection_start_at_boot">Iniciar quando o Android arrancar\nInicia a aplicação quando o Android arranca. Isto não funciona se o Xabber estiver instalado no cartão SD.</string>
+    <string name="connection_start_at_boot">Iniciar quando o Android arrancar\nInicia a aplicação quando o Android arranca. Isto não funciona se o Qtunr estiver instalado no cartão SD.</string>
     <string name="connection_wake_lock">Impedir o modo de suspensão\nEvita que o dispositivo entre no modo de suspensão. Isto aumenta a utilização da bateria.</string>
     <string name="connection_wifi_lock">Manter a rede wi-fi ligada\nMantém a rede wi-fi ativa no modo de suspensão. Isto aumenta a utilização da bateria</string>
     <string name="contacts_reset_offline">Repor definições de off-line\nLimpe as definições individuais para os grupos e contas</string>

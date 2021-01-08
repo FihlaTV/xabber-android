@@ -24,7 +24,7 @@
     <string name="debug_connection_errors_title">Pokaż błędy połączeń\nPokaż powiadomienia o błędach połączeń</string>
     <string name="debug_crash_reports_title">Udostępniaj dane diagnostyczne\nPomóż autorom aplikacji ulepszać Xabbera pozwalając na udostępnianie im danych diagnostycznych (proszę uruchomić ponownie aplikację aby zastosować zmiany).</string>
     <string name="debug_crash_reports_dialog_title">Dane diagnostyczne</string>
-    <string name="debug_crash_reports_dialog_message">Xabber gromadzi anonimowe dane na temat błędów. Można to wyłączyć w ustawieniach debugowania, ale utrudni to nam dostarczanie możliwie najlepszego doświadczenia dla użytkowników Xabbera.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr gromadzi anonimowe dane na temat błędów. Można to wyłączyć w ustawieniach debugowania, ale utrudni to nam dostarczanie możliwie najlepszego doświadczenia dla użytkowników Xabbera.</string>
     <string name="debug_crash_reports_dialog_settings_button">Ustawienia</string>
     <string name="events_persistent">Ikona paska zadań\nPokaż trwałe powiadomienie. Ta opcja uniemożliwia systemowi wyłączenie aplikacji</string>
     <string name="events_vibro">Wibracje</string>
@@ -36,7 +36,7 @@
     <string name="interface_smiles_none">Bez emotikon</string>
     <string name="preference_connection">Ustawienia połączeń\nUstawienia połączeń</string>
     <string name="preference_contacts">Lista kontaktów\nDostosuj wygląd listy kontaktów</string>
-    <string name="preference_debug">Ustawienia debugowania\nWybierz, jeśli chcesz pomóc twórcom Xabber\'a w rozwoju aplikacji</string>
+    <string name="preference_debug">Ustawienia debugowania\nWybierz, jeśli chcesz pomóc twórcom Qtunr\'a w rozwoju aplikacji</string>
     <string name="preference_editor">Ustawienia</string>
     <string name="preference_events">Powiadomienia\nUstawienia powiadomień</string>
     <string name="preference_interface">Ustawienia tematów graficznych\nUstawienia wyglądu</string>
@@ -63,7 +63,7 @@
     <string name="connection_go_away_immediately">Natychmiast po blokadzie ekranu</string>
     <string name="connection_go_xa">Status \"Oddalony\" gdy bezczynny\nUstaw status \"Oddalony\" przy blokadzie ekranu</string>
     <string name="connection_priority">Ustawienia priorytetów</string>
-    <string name="connection_start_at_boot">Uruchom aplikację po uruchomieniu systemu\nUruchom aplikację po uruchomieniu systemu. Ta opcja nie działa gdy Xabber jest zainstalowany na karcie pamięci.</string>
+    <string name="connection_start_at_boot">Uruchom aplikację po uruchomieniu systemu\nUruchom aplikację po uruchomieniu systemu. Ta opcja nie działa gdy Qtunr jest zainstalowany na karcie pamięci.</string>
     <string name="connection_wake_lock">Zapobiegaj przejściu w stan uśpienia\nZapobiegaj przejściu w stan uśpienia. To zwiększy zużycie baterii.</string>
     <string name="connection_wifi_lock">Utrzymuj włączone WiFi\nUtrzymuj włączone WiFi. To zwiększy zużycie baterii</string>
     <string name="contacts_reset_offline">Resetuj ustawienia offline\nWyczyść indywidualne ustawienia dla grup i kont</string>

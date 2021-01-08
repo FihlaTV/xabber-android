@@ -72,7 +72,7 @@ public class PushService extends FirebaseMessagingService {
                     break;
                 default:
                     Log.d(PushService.class.getSimpleName(),
-                            "Unexpected action in Xabber Account push - " + data.getAction());
+                            "Unexpected action in Qtunr Account push - " + data.getAction());
             }
         }
     }

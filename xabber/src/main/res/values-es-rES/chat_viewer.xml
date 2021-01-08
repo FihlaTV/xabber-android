@@ -69,7 +69,7 @@
     <string name="otr_encryption">Cifrado OTR</string>
     <string name="otr_end">Parar el cifrado</string>
     <string name="otr_refresh">Reiniciar el cifrado</string>
-    <string name="otr_request">Se ha pedido una conversación privada OTR (Off-the-Record) pero no tienes el complemento necesario. Usa Pidgin, Gajim o Adium para PC/Mac y Xabber o ChatSecure para Android. Más información en http://otr.cypherpunks.ca/.</string>
+    <string name="otr_request">Se ha pedido una conversación privada OTR (Off-the-Record) pero no tienes el complemento necesario. Usa Pidgin, Gajim o Adium para PC/Mac y Qtunr o ChatSecure para Android. Más información en http://otr.cypherpunks.ca/.</string>
     <string name="otr_start">Iniciar cifrado</string>
     <string name="otr_unreadable_message">El mensaje cifrado enviado es ilegible</string>
     <string name="otr_not_decrypted_message">El mensaje no se ha podido descifrar</string>

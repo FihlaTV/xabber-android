@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Unduh semua pesan dari arsip\nFungsi Debug. Bisa terjadi kesalahan saat bekerja</string>
     <string name="debug_log_files_activity_title">Berkas log</string>
     <string name="debug_connection_errors_title">Tampilkan kesalahan jaringan\nMenampilkan layar munculan tentang pengecualian koneksi</string>
-    <string name="debug_crash_reports_title">Membagikan data kerusakan dan diagnosis\nMembantu peningkatan Xabber dengan mengizinkan pembagian data kerusakan dan diagnosis (mohon mulai ulang aplikasi untuk menerapkan perubahan).</string>
+    <string name="debug_crash_reports_title">Membagikan data kerusakan dan diagnosis\nMembantu peningkatan Qtunr dengan mengizinkan pembagian data kerusakan dan diagnosis (mohon mulai ulang aplikasi untuk menerapkan perubahan).</string>
     <string name="debug_crash_reports_dialog_title">Data kerusakan dan diagnosis</string>
-    <string name="debug_crash_reports_dialog_message">Xabber mengumpulkan laporan kesalahan secara anonim. Anda dapat menonaktifkannya dalam pengaturan debug, tetapi hal tersebut akan mengurangi kemampuan kami untuk menyediakan pengalaman berkirim pesan yang lebih baik bagi para pengguna Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr mengumpulkan laporan kesalahan secara anonim. Anda dapat menonaktifkannya dalam pengaturan debug, tetapi hal tersebut akan mengurangi kemampuan kami untuk menyediakan pengalaman berkirim pesan yang lebih baik bagi para pengguna Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Pengaturan</string>
     <string name="events_persistent">Ikon taskbar\nTampilkan selalu notifikasi. Pilihan ini mencegah Android untuk mengeluarkan aplikasi dari memori</string>
     <string name="events_vibro">Getar</string>
@@ -37,7 +37,7 @@
     <string name="interface_smiles_none">Tanpa emoticon grafis</string>
     <string name="preference_connection">Pengaturan koneksi\nPengaturan koneksi</string>
     <string name="preference_contacts">Daftar kontak\nAtur tampilan daftar kontak</string>
-    <string name="preference_debug">Pengaturan debug\nPengaturan untuk membantu pengembang meningkatkan Xabber</string>
+    <string name="preference_debug">Pengaturan debug\nPengaturan untuk membantu pengembang meningkatkan Qtunr</string>
     <string name="preference_editor">Pengaturan</string>
     <string name="preference_events">Pemberitahuan\nPengaturan pemberitahuan</string>
     <string name="preference_interface">Pengaturan tema\nPengaturan tampilan</string>
@@ -66,7 +66,7 @@
     <string name="connection_go_away_immediately">Segera saat layar terkunci</string>
     <string name="connection_go_xa">\"Pergi lama\" ketika diam\nTampilkan \"Pergi lama\" saat layar terkunci</string>
     <string name="connection_priority">Pengaturan prioritas</string>
-    <string name="connection_start_at_boot">Jalankan saat Android mulai\nJalankan aplikasi saat Android dimulai. Fitur ini tidak akan berjalan jika Xabber disimpan pada kartu SD.</string>
+    <string name="connection_start_at_boot">Jalankan saat Android mulai\nJalankan aplikasi saat Android dimulai. Fitur ini tidak akan berjalan jika Qtunr disimpan pada kartu SD.</string>
     <string name="connection_wake_lock">Cegah mode tidur\nCegah perangkat mengaktifkan mode tidur. Fitur ini akan meningkatkan penggunaan baterai.</string>
     <string name="connection_wifi_lock">Jaga WiFi aktif\nJaga WiFi tetap aktif. Fitur ini akan meningkatkan penggunaan baterai</string>
     <string name="contacts_reset_offline">Kembalikan pengaturan luring\nBersihkan pengaturan pribadi untuk grup dan akun</string>

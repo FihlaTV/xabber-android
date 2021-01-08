@@ -9,7 +9,7 @@
     <string name="account_priority">Prioritat</string>
     <string name="account_resource">Dispositiu</string>
     <string name="account_server_name">Servidor</string>
-    <string name="account_xmpp_register_warning">Heu de <a href="http://www.google.com/#q=registrar el compte XMPP"> registrar el compte XMPP</a> abans d\'afegir-lo a Xabber!</string>
+    <string name="account_xmpp_register_warning">Heu de <a href="http://www.google.com/#q=registrar el compte XMPP"> registrar el compte XMPP</a> abans d\'afegir-lo a Qtunr!</string>
     <string name="account_user_name">Nom d\'usuari</string>
     <string name="EMPTY_SERVER_NAME">No s\'ha especificat el nom del servidor</string>
     <string name="EMPTY_USER_NAME">No s\'ha especificat el nom d\'usuari</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">Càrrega el historial només de xats oberts</string>
     <string name="account_mam_sync_none">No carregar història de ningú</string>
     <string name="account_clear_history_on_exit_title">Esborra l\'historial en sortir</string>
-    <string name="account_clear_history_on_exit_summary">Suprimir tots els missatges de xat del dispositiu abans de sortir del Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Suprimir tots els missatges de xat del dispositiu abans de sortir del Qtunr.</string>
     <string name="account_bookmarks">Marcadors</string>
     <string name="account_bookmarks_summary">Llista de marcadors per a aquest compte</string>
     <string name="account_sync">Sincronització</string>
-    <string name="account_sync_summary">Sincronització amb el compte Xabber</string>
+    <string name="account_sync_summary">Sincronització amb el compte Qtunr</string>
     <string name="bookmark_not_supported">Servidor no admet marcadors.</string>
 </resources>

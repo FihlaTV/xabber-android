@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Uporabljaj splošne nastavitve</string>
     <string name="show_offline_settings">Prikaži nedejavne stike</string>
     <string name="start_at_boot">Zaženi ob zagonu</string>
-    <string name="start_at_boot_suggest">Želiš da se Xabber zažene ob zagonu?\nTo lahko spremenite v \"Nastavitve\" → \"Nastavitve povezave\" → \"Zaženi z zagonom Androida\"</string>
+    <string name="start_at_boot_suggest">Želiš da se Qtunr zažene ob zagonu?\nTo lahko spremenite v \"Nastavitve\" → \"Nastavitve povezave\" → \"Zaženi z zagonom Androida\"</string>
     <string name="contact_search_hint">Išči stike</string>
     <string name="sender_is_you">Vi</string>
     <string name="xmpp_accounts">Računi XMPP</string>
@@ -65,7 +65,7 @@
     <string name="unblock_all">Odblokiraj vse</string>
     <string name="unblock_selected">Odblokiraj označene</string>
     <string name="dark_theme_suggest_dialog_title">Izberite vašo usodo</string>
-    <string name="dark_theme_suggest_dialog_message">Sedaj je na voljo temna tema za Xabber. Preidi na temno stran ali ostani na svetli strani?</string>
+    <string name="dark_theme_suggest_dialog_message">Sedaj je na voljo temna tema za Qtunr. Preidi na temno stran ali ostani na svetli strani?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Tema</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Svetloba</string>
     <string name="battery_optimization_disable_dialog_title">Optimizacija baterije</string>

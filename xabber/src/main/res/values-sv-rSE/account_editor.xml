@@ -9,7 +9,7 @@
     <string name="account_priority">Prioritet</string>
     <string name="account_resource">Resurs</string>
     <string name="account_server_name">Server</string>
-    <string name="account_xmpp_register_warning">Du måste <a href="http://www.google.com/#q=register an XMPP account"> registrera ett XMPP-konto</a> innan du lägger till det i Xabber!</string>
+    <string name="account_xmpp_register_warning">Du måste <a href="http://www.google.com/#q=register an XMPP account"> registrera ett XMPP-konto</a> innan du lägger till det i Qtunr!</string>
     <string name="account_user_name">Användarnamn</string>
     <string name="EMPTY_SERVER_NAME">Servernamn har inte angetts</string>
     <string name="EMPTY_USER_NAME">Användarnamn saknas</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">Läs in historik endast för den aktiva chatten</string>
     <string name="account_mam_sync_none">Läs inte in historik för någon</string>
     <string name="account_clear_history_on_exit_title">Rensa historik vid avslut</string>
-    <string name="account_clear_history_on_exit_summary">Ta bort alla chattmeddelanden från enheten innan Xabber avslutas.</string>
+    <string name="account_clear_history_on_exit_summary">Ta bort alla chattmeddelanden från enheten innan Qtunr avslutas.</string>
     <string name="account_bookmarks">Bokmärken</string>
     <string name="account_bookmarks_summary">Lista med bokmärken för detta konto</string>
     <string name="account_sync">Synkronisering</string>
-    <string name="account_sync_summary">Synkronisering med Xabber-konto</string>
+    <string name="account_sync_summary">Synkronisering med Qtunr-konto</string>
     <string name="bookmark_not_supported">Servern stöder inte bokmärken</string>
 </resources>

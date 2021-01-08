@@ -64,7 +64,7 @@
     <string name="otr_encryption">OTR šifravimas</string>
     <string name="otr_end">Sustabdyti šifravimą</string>
     <string name="otr_refresh">Paleisti šifravimą iš naujo</string>
-    <string name="otr_request">Buvo paprašyta \"ne oficialiuose įrašuose\" (off-the-record, OTR) privataus pokalbio, bet Jūs neturite to palaikančio įskiepio. Naudokite Pidgin, Gajim arba Adium asmeniniame ar macintosh kompiuteryje ir Xabber, Conversations arba ChatSecure Android platformoje. Aplankykite http://otr.cypherpunks.ca/ norėdami gauti daugiau informacijos.</string>
+    <string name="otr_request">Buvo paprašyta \"ne oficialiuose įrašuose\" (off-the-record, OTR) privataus pokalbio, bet Jūs neturite to palaikančio įskiepio. Naudokite Pidgin, Gajim arba Adium asmeniniame ar macintosh kompiuteryje ir Qtunr, Conversations arba ChatSecure Android platformoje. Aplankykite http://otr.cypherpunks.ca/ norėdami gauti daugiau informacijos.</string>
     <string name="otr_start">Pradėti šifravimą</string>
     <string name="otr_unreadable_message">Jūsų išsiųsta šifruota žinutė yra neperskaitoma</string>
     <string name="otr_verification">OTR patikrinimas</string>

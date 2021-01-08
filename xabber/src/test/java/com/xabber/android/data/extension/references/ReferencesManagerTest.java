@@ -73,7 +73,7 @@ public class ReferencesManagerTest {
         body7 = "Тест форматирования текста";
 
         message7 = new Message("test@jabber.com", body7);
-        message7.addExtension(new Markup(20, 26, false, false, false, false, "www.xabber.com"));
+        message7.addExtension(new Markup(20, 26, false, false, false, false, "www.qtune.io"));
 
         // -------
 
@@ -140,7 +140,7 @@ public class ReferencesManagerTest {
     public void modifyBodyWithReferences7() {
         Pair<String, String> result = ReferencesManager.modifyBodyWithReferences(message7, body7);
         assertEquals("Тест форматирования текста", result.first);
-        assertEquals("Тест форматирования &zwj;<click uri='www.xabber.com' type='hyperlink'>текста</click>", result.second);
+        assertEquals("Тест форматирования &zwj;<click uri='www.qtune.io' type='hyperlink'>текста</click>", result.second);
     }
 
     @Test

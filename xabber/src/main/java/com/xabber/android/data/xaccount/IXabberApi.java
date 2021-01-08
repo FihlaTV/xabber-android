@@ -71,7 +71,7 @@ public interface IXabberApi {
     @POST("accounts/password_reset_request/")
     Single<ResponseBody> requestResetPassword(@Body AuthManager.ResetPassFields fields);
 
-    /* Xabber API v2 */
+    /* Qtunr API v2 */
 
     @POST("accounts/xmpp_code_request/")
     Single<AuthManager.XMPPCode> requestXMPPCode(@Body AuthManager.XMPPCodeRequest request);

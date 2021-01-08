@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Gunakan pengaturan umum</string>
     <string name="show_offline_settings">Tampilkan kontak luring</string>
     <string name="start_at_boot">Jalankan saat startup</string>
-    <string name="start_at_boot_suggest">Apakah Anda ingin menjalankan Xabber saat startup?\nDapat diubah melalui \"Pengaturan\" → \"Pengaturan Jaringan\" → \"Jalankan ketika Android dimulai\"</string>
+    <string name="start_at_boot_suggest">Apakah Anda ingin menjalankan Qtunr saat startup?\nDapat diubah melalui \"Pengaturan\" → \"Pengaturan Jaringan\" → \"Jalankan ketika Android dimulai\"</string>
     <string name="contact_search_hint">Cari kontak</string>
     <string name="sender_is_you">Anda</string>
     <string name="xmpp_accounts">Akun XMPP</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Buka semua blokir</string>
     <string name="unblock_selected">Buka blokir kontak terpilih</string>
     <string name="dark_theme_suggest_dialog_title">Pilih jalan hidupmu</string>
-    <string name="dark_theme_suggest_dialog_message">Tema baru Kegelapan tersedia untuk Xabber. Dapatkah kamu menghindari godaan untuk menggunakannya?</string>
+    <string name="dark_theme_suggest_dialog_message">Tema baru Kegelapan tersedia untuk Qtunr. Dapatkah kamu menghindari godaan untuk menggunakannya?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Bergabung dengan Sisi Gelap</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Tetap dalam Sisi Terang</string>
     <string name="battery_optimization_disable_dialog_title">Optimasi baterai</string>
-    <string name="battery_optimization_disable_dialog_message">Perangkat Anda sedang melakukan optimasi besar pada Xabber yang dapat memicu tertundanya notifikasi atau bahkan kehilangan pesan.\n\nAnda akan diminta untuk menonaktifkannya.</string>
+    <string name="battery_optimization_disable_dialog_message">Perangkat Anda sedang melakukan optimasi besar pada Qtunr yang dapat memicu tertundanya notifikasi atau bahkan kehilangan pesan.\n\nAnda akan diminta untuk menonaktifkannya.</string>
     <string name="clear_log">Hapus berkas log lama</string>
     <string name="open_log_file">Buka</string>
     <string name="send_log_file">Kirim</string>

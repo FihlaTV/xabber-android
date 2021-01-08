@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Použiť všeobecné nastavenia</string>
     <string name="show_offline_settings">Zobraziť odpojené kontakty</string>
     <string name="start_at_boot">Spustiť pri štarte</string>
-    <string name="start_at_boot_suggest">Chcete spúšťať Xabber pri štarte?\nMôžete to zmeniť v \"Nastavenia\" → \"Nastavenia pripojenia\" → \"Spustiť pri štarte\"</string>
+    <string name="start_at_boot_suggest">Chcete spúšťať Qtunr pri štarte?\nMôžete to zmeniť v \"Nastavenia\" → \"Nastavenia pripojenia\" → \"Spustiť pri štarte\"</string>
     <string name="contact_search_hint">Vyhľadávanie kontaktov</string>
     <string name="sender_is_you">Vy</string>
     <string name="xmpp_accounts">XMPP účty</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Odblokovať všetkých</string>
     <string name="unblock_selected">Odblokovať vybraných</string>
     <string name="dark_theme_suggest_dialog_title">Zvoľte si váš osud</string>
-    <string name="dark_theme_suggest_dialog_message">Nová temná téma je teraz dostupná pre Xabber. Dokážete odolať pokušeniu použiť ju?</string>
+    <string name="dark_theme_suggest_dialog_message">Nová temná téma je teraz dostupná pre Qtunr. Dokážete odolať pokušeniu použiť ju?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Pridajte sa k temnej strane</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Ostať na svetlej strane</string>
     <string name="battery_optimization_disable_dialog_title">Optimalizácia batérie</string>
-    <string name="battery_optimization_disable_dialog_message">Vaše zariadenie vykonáva prílišné optimalizácie batérie voči Xabber-u, čo môže viesť k oneskoreným hláseniam, prípradne aj k ich strate.\n\nTeraz budete požiadaný o ich vypnutie.</string>
+    <string name="battery_optimization_disable_dialog_message">Vaše zariadenie vykonáva prílišné optimalizácie batérie voči Qtunr-u, čo môže viesť k oneskoreným hláseniam, prípradne aj k ich strate.\n\nTeraz budete požiadaný o ich vypnutie.</string>
     <string name="clear_log">Odstrániť staré súbory denníka</string>
     <string name="open_log_file">Otvoriť</string>
     <string name="send_log_file">Odoslať</string>

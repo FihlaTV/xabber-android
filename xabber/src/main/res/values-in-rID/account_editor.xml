@@ -9,7 +9,7 @@
     <string name="account_priority">Prioritas</string>
     <string name="account_resource">Sumber daya</string>
     <string name="account_server_name">Server</string>
-    <string name="account_xmpp_register_warning">Anda harus <a href="http://www.google.com/#q=register an XMPP account">mendaftar akun XMPP</a> sebelum menambahkan ke Xabber!</string>
+    <string name="account_xmpp_register_warning">Anda harus <a href="http://www.google.com/#q=register an XMPP account">mendaftar akun XMPP</a> sebelum menambahkan ke Qtunr!</string>
     <string name="account_user_name">Nama pengguna</string>
     <string name="EMPTY_SERVER_NAME">Nama server belum ditentukan</string>
     <string name="EMPTY_USER_NAME">Nama pengguna belum ditentukan</string>
@@ -87,10 +87,10 @@
     <string name="account_mam_sync_current">Muat riwayat obrolan terbuka saja</string>
     <string name="account_mam_sync_none">Jangan muat riwayat apa pun</string>
     <string name="account_clear_history_on_exit_title">Bersihkan riwayat saat keluar</string>
-    <string name="account_clear_history_on_exit_summary">Hapus semua obrolan dari perangkat sebelum meninggalkan Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Hapus semua obrolan dari perangkat sebelum meninggalkan Qtunr.</string>
     <string name="account_bookmarks">Penanda</string>
     <string name="account_bookmarks_summary">Daftar penanda pada akun ini</string>
     <string name="account_sync">Sinkronisasi</string>
-    <string name="account_sync_summary">Sinkronisasi ke akun Xabber</string>
+    <string name="account_sync_summary">Sinkronisasi ke akun Qtunr</string>
     <string name="bookmark_not_supported">Server tidak mendukung penanda.</string>
 </resources>

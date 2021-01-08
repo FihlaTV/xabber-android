@@ -490,7 +490,7 @@ public class XabberLoginActivity extends BaseLoginActivity implements XAccountSi
     private void handleErrorSocialLogin(Throwable throwable, String credentials, String provider) {
         String message = RetrofitErrorConverter.throwableToHttpError(throwable);
         if (message != null) {
-            if (message.contains("is not attached to any Xabber account")) {
+            if (message.contains("is not attached to any Qtunr account")) {
                 // go to sign up
                 SignUpRepo.getInstance().setSocialCredentials(credentials);
                 SignUpRepo.getInstance().setSocialProvider(provider);

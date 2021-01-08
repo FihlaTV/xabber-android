@@ -3,7 +3,6 @@ local.properties
 .idea
 build
 .gradle
-*.apk
 app/manifest-merger-release-report.txt
 *~*
 /ajcore*

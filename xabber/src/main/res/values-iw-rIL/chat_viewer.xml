@@ -69,7 +69,7 @@
     <string name="otr_encryption">הצפנת OTR</string>
     <string name="otr_end">הפסק הצפנה</string>
     <string name="otr_refresh">הצפנה מחדש</string>
-    <string name="otr_request">דיון פרטי Off-the-Record התבקש אולם אין ברשותך את התוסף התומך. השתמש בלקוחות כגון Pidgin, Gajim או Adium למחשבי PC/Mac ובלקוח Xabber או ChatSecure לאנדרואיד. ראה http://otr.cypherpunks.ca/ למידע נוסף.</string>
+    <string name="otr_request">דיון פרטי Off-the-Record התבקש אולם אין ברשותך את התוסף התומך. השתמש בלקוחות כגון Pidgin, Gajim או Adium למחשבי PC/Mac ובלקוח Qtunr או ChatSecure לאנדרואיד. ראה http://otr.cypherpunks.ca/ למידע נוסף.</string>
     <string name="otr_start">הפעל הצפנה</string>
     <string name="otr_unreadable_message">ההודעה המוצפנת אשר התקבלה אינה קריאה</string>
     <string name="otr_not_decrypted_message">אי אפשר לפענח את ההודעה</string>

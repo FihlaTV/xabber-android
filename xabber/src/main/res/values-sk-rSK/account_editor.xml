@@ -80,10 +80,10 @@
     <string name="account_mam_sync_current">Načítať históriu len pre otvorené rozhovory</string>
     <string name="account_mam_sync_none">Nenačítať hostóriu pre nikoho</string>
     <string name="account_clear_history_on_exit_title">Vymazať históriu pri ukončení</string>
-    <string name="account_clear_history_on_exit_summary">Odstrániť všetky chat správy zo zariadenia pred skončením Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Odstrániť všetky chat správy zo zariadenia pred skončením Qtunr.</string>
     <string name="account_bookmarks">Záložky</string>
     <string name="account_bookmarks_summary">Zoznam zálo¾iek pre toto konto</string>
     <string name="account_sync">Synchronizácia</string>
-    <string name="account_sync_summary">Synchronizácia s Xabber účtom</string>
+    <string name="account_sync_summary">Synchronizácia s Qtunr účtom</string>
     <string name="bookmark_not_supported">Server nepodporuje záložky.</string>
 </resources>

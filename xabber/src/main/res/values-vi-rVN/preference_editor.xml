@@ -21,7 +21,7 @@
     <string name="interface_smiles_none">Không dùng biểu tượng cảm xúc đồ hoạ</string>
     <string name="preference_connection">Cài đặt kết nối\nCài đặt kết nối</string>
     <string name="preference_contacts">Danh bạ\nTuỳ chỉnh diện mạo danh bạ</string>
-    <string name="preference_debug">Cài đặt dò lỗi\nCài đặt nhằm giúp các nhà phát triển cải thiện Xabber</string>
+    <string name="preference_debug">Cài đặt dò lỗi\nCài đặt nhằm giúp các nhà phát triển cải thiện Qtunr</string>
     <string name="preference_editor">Cài đặt</string>
     <string name="preference_events">Thông báo\nCài đặt thông báo</string>
     <string name="preference_interface">Cài đặt phông nền\nCài đặt giao diện</string>
@@ -38,7 +38,7 @@
     <string name="connection_go_away_immediately">Ngay sau khi khoá màn hình</string>
     <string name="connection_go_xa">\"Vắng mặt mở rộng\" khi nhàn rỗi\nĐặt \"Vắng mặt mở rộng\" trên màn hình khoá</string>
     <string name="connection_priority">Cài đặt mức ưu tiên</string>
-    <string name="connection_start_at_boot">Chạy khi Android khởi động\nChạy ứng dụng khi Android khởi động. Không khả dụng khi Xabber được cài trên thẻ SD.</string>
+    <string name="connection_start_at_boot">Chạy khi Android khởi động\nChạy ứng dụng khi Android khởi động. Không khả dụng khi Qtunr được cài trên thẻ SD.</string>
     <string name="connection_wake_lock">Ngăn chế độ ngủ sâu\nNgăn thiết bị đi vào chế độ ngủ sâu. Tăng thời lượng pin.</string>
     <string name="connection_wifi_lock">Giữ WiFi luôn chạy\nGiữ cho WiFi luôn hoạt động cả trong chế độ chờ. Sẽ gây hao pin</string>
     <string name="contacts_reset_offline">Thiết lập lại cài đặt ngoại tuyến\nXoá cài đặt riêng lẻ cho các nhóm và tài khoản</string>

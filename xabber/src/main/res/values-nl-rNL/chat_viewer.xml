@@ -68,7 +68,7 @@
     <string name="otr_encryption">OTR encryptie</string>
     <string name="otr_end">Stop encryptie</string>
     <string name="otr_refresh">Herbegin encryptie</string>
-    <string name="otr_request">Off-the-Record private conversatie werd verzocht maar je hebt de vereiste plugin niet. Gebruik Pidgin, Gajim of Adium voor PC/Mac en Xabber of ChatSecure voor Android. Ga naar http://otr.cypherpunks.ca/ voor meer informatie.</string>
+    <string name="otr_request">Off-the-Record private conversatie werd verzocht maar je hebt de vereiste plugin niet. Gebruik Pidgin, Gajim of Adium voor PC/Mac en Qtunr of ChatSecure voor Android. Ga naar http://otr.cypherpunks.ca/ voor meer informatie.</string>
     <string name="otr_start">Start encryptie</string>
     <string name="otr_unreadable_message">Het geëncrypteerde bericht dat je verzond is niet leesbaar</string>
     <string name="otr_not_decrypted_message">Kan bericht niet ontsleutelen</string>

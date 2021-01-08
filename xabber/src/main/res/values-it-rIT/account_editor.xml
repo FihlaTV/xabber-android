@@ -9,7 +9,7 @@
     <string name="account_priority">Priorità</string>
     <string name="account_resource">Fonte</string>
     <string name="account_server_name">Server</string>
-    <string name="account_xmpp_register_warning">Devi <a href="http://www.google.it/#q=register an XMPP account">registrare un account XMPP</a> prima di aggiungerlo a Xabber!</string>
+    <string name="account_xmpp_register_warning">Devi <a href="http://www.google.it/#q=register an XMPP account">registrare un account XMPP</a> prima di aggiungerlo a Qtunr!</string>
     <string name="account_user_name">Username</string>
     <string name="EMPTY_SERVER_NAME">Nome del server non specificato</string>
     <string name="EMPTY_USER_NAME">Username mancante</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">Carica la cronologia soltanto per le chat aperte</string>
     <string name="account_mam_sync_none">Non caricare la cronologia per tutti</string>
     <string name="account_clear_history_on_exit_title">Elimina la cronologia all\'uscita</string>
-    <string name="account_clear_history_on_exit_summary">Elimina tutti i messaggi dal dispositivo prima di uscire da Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Elimina tutti i messaggi dal dispositivo prima di uscire da Qtunr.</string>
     <string name="account_bookmarks">Segnalibri</string>
     <string name="account_bookmarks_summary">La lista di segnalibri per questo account</string>
     <string name="account_sync">Sincronizzazione</string>
-    <string name="account_sync_summary">Sincronizzazione con Account di Xabber</string>
+    <string name="account_sync_summary">Sincronizzazione con Account di Qtunr</string>
     <string name="bookmark_not_supported">Il server non supporta i segnalibri.</string>
 </resources>

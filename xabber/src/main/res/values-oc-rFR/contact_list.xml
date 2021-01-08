@@ -44,7 +44,7 @@
     <string name="show_offline_normal">Utilizar los paramètres generals</string>
     <string name="show_offline_settings">Afichar los contactes fòra linha</string>
     <string name="start_at_boot">Aviar a l\'aviada</string>
-    <string name="start_at_boot_suggest">Volètz aviar Xabber a l\'aviada ?\nAquò pòt èsser cambiat via \"Paramètres\" → \"Paramètres de connexion\" → \"Aviar amb Android\"</string>
+    <string name="start_at_boot_suggest">Volètz aviar Qtunr a l\'aviada ?\nAquò pòt èsser cambiat via \"Paramètres\" → \"Paramètres de connexion\" → \"Aviar amb Android\"</string>
     <string name="contact_search_hint">Cercar contactes</string>
     <string name="sender_is_you">Vos </string>
     <string name="xmpp_accounts">Comptes XMPP</string>
@@ -58,7 +58,7 @@
     <string name="unblock_all">Desblocar totes</string>
     <string name="unblock_selected">Desblocar seleccion</string>
     <string name="dark_theme_suggest_dialog_title">Causissètz vòstre destin</string>
-    <string name="dark_theme_suggest_dialog_message">Un novèl tèma escur es d\'ara enlà disponible per Xabber. Anatz resistir a la temptacion de l\'utilizar ?</string>
+    <string name="dark_theme_suggest_dialog_message">Un novèl tèma escur es d\'ara enlà disponible per Qtunr. Anatz resistir a la temptacion de l\'utilizar ?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Rejónher lo Costat Escur</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Demorar dins lo costat Luminós</string>
 </resources>

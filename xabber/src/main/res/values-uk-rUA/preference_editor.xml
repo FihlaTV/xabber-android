@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Завантажити всі повідомлення з архіву\nФункція відладки. Може працювати з помилками</string>
     <string name="debug_log_files_activity_title">Файли журналу</string>
     <string name="debug_connection_errors_title">Показувати помилки з\'єднання\nВідображати спливаючі сповіщення при обривах з\'єднання</string>
-    <string name="debug_crash_reports_title">Збір інформації для діагностики\nДозволивши збір інформації про збої ви допоможете розробникам покращити Xabber (будь ласка, перезапустіть додаток, щоб внести зміни).</string>
+    <string name="debug_crash_reports_title">Збір інформації для діагностики\nДозволивши збір інформації про збої ви допоможете розробникам покращити Qtunr (будь ласка, перезапустіть додаток, щоб внести зміни).</string>
     <string name="debug_crash_reports_dialog_title">Збір інформації для діагностики</string>
-    <string name="debug_crash_reports_dialog_message">Xabber збирає анонімні повідомлення про помилки. Ви можете відключити це в параметрах, але це буде перешкоджати наданню надійного досвіду спілкування користувачам Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr збирає анонімні повідомлення про помилки. Ви можете відключити це в параметрах, але це буде перешкоджати наданню надійного досвіду спілкування користувачам Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Налаштування</string>
     <string name="events_persistent">Піктограма на Taskbar\nВідображати постійне повідомлення. Цей параметр запобігає Android вигружати програму з пам\'яті</string>
     <string name="events_vibro">Вібрація</string>
@@ -37,7 +37,7 @@
     <string name="interface_smiles_none">Відключити графічні смайли</string>
     <string name="preference_connection">Налаштування підключення\nВстановлення параметрів підключення</string>
     <string name="preference_contacts">Перелік контактів\nПараметри показу переліку контактів</string>
-    <string name="preference_debug">Параметри зневадження\nОберіть цей пункт, якщо у Вас є можливість допомогти розробникам зробити Xabber краще</string>
+    <string name="preference_debug">Параметри зневадження\nОберіть цей пункт, якщо у Вас є можливість допомогти розробникам зробити Qtunr краще</string>
     <string name="preference_editor">Установки</string>
     <string name="preference_events">Сповіщення\nПараметри варіантів сповіщення</string>
     <string name="preference_interface">Теми\nПараметри зовнішнього вигляду</string>
@@ -66,7 +66,7 @@
     <string name="connection_go_away_immediately">Одразу після блокування екрану</string>
     <string name="connection_go_xa">\"Розширений геть\" при простої\nВстановити \"Розширений геть\" на екран блокування</string>
     <string name="connection_priority">Параметри пріоритету</string>
-    <string name="connection_start_at_boot">Запускати разом з Android\nЗапускати додаток коли завантажується Android. Це не працює, коли Xabber встановлений на SD-карту.</string>
+    <string name="connection_start_at_boot">Запускати разом з Android\nЗапускати додаток коли завантажується Android. Це не працює, коли Qtunr встановлений на SD-карту.</string>
     <string name="connection_wake_lock">Заборонити режим сну\nНе давати пристрою спати. Це збільшить використання акумулятора.</string>
     <string name="connection_wifi_lock">Тримати WiFi увімкненим\nТримати WiFi активним в режимі очікування. Це збільшить використання акумулятора</string>
     <string name="contacts_reset_offline">Скинути поза мережеві параметри\nОчистити індивідуальні параметри для груп і облікових записів</string>

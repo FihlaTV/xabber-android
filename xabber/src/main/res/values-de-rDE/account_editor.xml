@@ -9,7 +9,7 @@
     <string name="account_priority">Priorität</string>
     <string name="account_resource">Ressource</string>
     <string name="account_server_name">Server</string>
-    <string name="account_xmpp_register_warning">Du musst <a href="http://www.google.de/#q=XMPP+Account+erstellen">ein XMPP Bentzerkonto erstellen</a> um Xabber zu nutzen!</string>
+    <string name="account_xmpp_register_warning">Du musst <a href="http://www.google.de/#q=XMPP+Account+erstellen">ein XMPP Bentzerkonto erstellen</a> um Qtunr zu nutzen!</string>
     <string name="account_user_name">Benutzername</string>
     <string name="EMPTY_SERVER_NAME">Servername nicht angegeben</string>
     <string name="EMPTY_USER_NAME">Benutzername nicht angegeben</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">Nur den Chatverlauf des geöffneten Chats laden</string>
     <string name="account_mam_sync_none">Keinen Verlauf laden</string>
     <string name="account_clear_history_on_exit_title">Löschen des Verlaufs beim Verlassen</string>
-    <string name="account_clear_history_on_exit_summary">Löschen aller Chatnachrichten vom Gerät vor dem Beenden von Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Löschen aller Chatnachrichten vom Gerät vor dem Beenden von Qtunr.</string>
     <string name="account_bookmarks">Lesezeichen</string>
     <string name="account_bookmarks_summary">Liste von Lesezeichen für dieses Konto</string>
     <string name="account_sync">Synchronisation</string>
-    <string name="account_sync_summary">Synchronisation mit Xabber Konto</string>
+    <string name="account_sync_summary">Synchronisation mit Qtunr Konto</string>
     <string name="bookmark_not_supported">Server unterstützt keine Lesezeichen.</string>
 </resources>

@@ -70,7 +70,7 @@
   <string name="otr_encryption">OTR шифриране</string>
   <string name="otr_end">Спри шифрирането</string>
   <string name="otr_refresh">Рестартирай шифрирането</string>
-  <string name="otr_request">Поискан е неофициален (Off-the-Record) поверителен разговор, но Вие нямате необходимата добавка. Използвайте Pidgin, Gajim или Adium за PC/Mac и Xabber, Conversations или ChatSecure за Android. Посетете http://otr.cypherpunks.ca/ за повече информация.</string>
+  <string name="otr_request">Поискан е неофициален (Off-the-Record) поверителен разговор, но Вие нямате необходимата добавка. Използвайте Pidgin, Gajim или Adium за PC/Mac и Qtunr, Conversations или ChatSecure за Android. Посетете http://otr.cypherpunks.ca/ за повече информация.</string>
   <string name="otr_start">Започни шифрирането</string>
     <string name="otr_unreadable_message">Шифрираното съобщение, което изпратихте, е нечетимо</string>
   <string name="otr_not_decrypted_message">Съобщението не може да се дешифрира</string>

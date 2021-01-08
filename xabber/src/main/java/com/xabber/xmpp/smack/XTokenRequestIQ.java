@@ -5,7 +5,7 @@ import org.jivesoftware.smack.packet.IQ;
 public class XTokenRequestIQ extends IQ {
 
     public static final String ELEMENT   = "issue";
-    public static final String NAMESPACE = "http://xabber.com/protocol/auth-tokens";
+    public static final String NAMESPACE = "http://qtune.io/protocol/auth-tokens";
 
     private final String client;
     private final String device;

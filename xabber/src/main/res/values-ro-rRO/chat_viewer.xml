@@ -68,7 +68,7 @@
     <string name="otr_encryption">Encripție OTR</string>
     <string name="otr_end">Dezactivează encripție</string>
     <string name="otr_refresh">Reinițiază encripție</string>
-    <string name="otr_request">Encripția OTR a fost solicitată însă nu există niciun plugin să o suporte. Utilizați Pidgin, Gajim, Adium pentru PC/Mac și Xabber sau ChatSecure pentru Android. Accesați adresa http://otr.cypherpunks.ca/ pentru informații suplimentare.</string>
+    <string name="otr_request">Encripția OTR a fost solicitată însă nu există niciun plugin să o suporte. Utilizați Pidgin, Gajim, Adium pentru PC/Mac și Qtunr sau ChatSecure pentru Android. Accesați adresa http://otr.cypherpunks.ca/ pentru informații suplimentare.</string>
     <string name="otr_start">Activează encripție</string>
     <string name="otr_unreadable_message">Mesajul encriptat trimis nu este valabil</string>
     <string name="otr_not_decrypted_message">Mesajul nu poate fi decriptat</string>

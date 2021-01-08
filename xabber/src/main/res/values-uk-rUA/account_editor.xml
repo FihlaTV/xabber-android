@@ -9,7 +9,7 @@
     <string name="account_priority">Пріоритет</string>
     <string name="account_resource">Ресурс</string>
     <string name="account_server_name">Сервер</string>
-    <string name="account_xmpp_register_warning">Ви повинні<a href="http://www.google.com/#q=register an XMPP account">зареєструвати обліковий запис XMMP</a> перед тим як додати її до Xabber!</string>
+    <string name="account_xmpp_register_warning">Ви повинні<a href="http://www.google.com/#q=register an XMPP account">зареєструвати обліковий запис XMMP</a> перед тим як додати її до Qtunr!</string>
     <string name="account_user_name">Ім’я користувача</string>
     <string name="EMPTY_SERVER_NAME">Не вказано ім’я сервера</string>
     <string name="EMPTY_USER_NAME">Не вказано ім’я користувача</string>
@@ -90,10 +90,10 @@
     <string name="account_mam_sync_current">Завантажувати історію тільки для відкритих чатів</string>
     <string name="account_mam_sync_none">Не завантажувати історію</string>
     <string name="account_clear_history_on_exit_title">Очищати історію при виході</string>
-    <string name="account_clear_history_on_exit_summary">Видаляти всі повідомлення з пристрою перед виходом із Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Видаляти всі повідомлення з пристрою перед виходом із Qtunr.</string>
     <string name="account_bookmarks">Закладки</string>
     <string name="account_bookmarks_summary">Список закладок для цього облікового запису</string>
     <string name="account_sync">Синхронізація</string>
-    <string name="account_sync_summary">Синхронізація з обліковим записом Xabber</string>
+    <string name="account_sync_summary">Синхронізація з обліковим записом Qtunr</string>
     <string name="bookmark_not_supported">Сервер не підтримує закладки.</string>
 </resources>

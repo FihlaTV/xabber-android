@@ -65,11 +65,11 @@
     <string name="unblock_all">取消屏幕所有</string>
     <string name="unblock_selected">取消屏蔽选定</string>
     <string name="dark_theme_suggest_dialog_title">选择你的命运</string>
-    <string name="dark_theme_suggest_dialog_message">Xabber 有新黑暗主题可用。你能抗拒使用它的诱惑吗？</string>
+    <string name="dark_theme_suggest_dialog_message">Qtunr 有新黑暗主题可用。你能抗拒使用它的诱惑吗？</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">加入黑暗的一面</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">留在光明的一面</string>
     <string name="battery_optimization_disable_dialog_title">电池优化</string>
-    <string name="battery_optimization_disable_dialog_message">您的设备针对 Xabber 做了一些重度的电池优化，这可能导致通知的延迟或者甚至丢失消息。\n\n你现在将被要求禁用那些优化。</string>
+    <string name="battery_optimization_disable_dialog_message">您的设备针对 Qtunr 做了一些重度的电池优化，这可能导致通知的延迟或者甚至丢失消息。\n\n你现在将被要求禁用那些优化。</string>
     <string name="clear_log">删除旧的日志文件</string>
     <string name="open_log_file">打开</string>
     <string name="send_log_file">发送</string>

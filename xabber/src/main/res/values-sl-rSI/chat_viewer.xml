@@ -69,7 +69,7 @@
     <string name="otr_encryption">Šifriranje OTR</string>
     <string name="otr_end">Ustavi šifriranje</string>
     <string name="otr_refresh">Ponovno šifriranje</string>
-    <string name="otr_request">Off-The-Record zasebni pogovor je bil zahtevan vendar nimate podpornega vtičnika. Uporabljaj Pidgin, Gajim ali Adium za PC/Mac in Xabber, Concersations ali ChatSecure za Android. Obiščite http://otr.cypherpunks.ca/ za več informacij.</string>
+    <string name="otr_request">Off-The-Record zasebni pogovor je bil zahtevan vendar nimate podpornega vtičnika. Uporabljaj Pidgin, Gajim ali Adium za PC/Mac in Qtunr, Concersations ali ChatSecure za Android. Obiščite http://otr.cypherpunks.ca/ za več informacij.</string>
     <string name="otr_start">Začni šifriranje</string>
     <string name="otr_unreadable_message">Šifrirano sporočilo ki ste ga poslali ni berljivo</string>
     <string name="otr_not_decrypted_message">Sporočila ni mogoče dešifrirati</string>

@@ -68,7 +68,7 @@
     <string name="otr_encryption">Шыфраваньне OTR</string>
     <string name="otr_end">Спыніць шыфраваньне</string>
     <string name="otr_refresh">Нанава пачаць шыфраваньне</string>
-    <string name="otr_request">Суразмоўца паспрабаваў пачаць OTR шыфраваньне гутаркі, але ў вас не ўсталяваны плягін для яго падтрымкі. Усталюце Pidgin, Gajim ці Adium для PC/Mac і Xabber ці ChatSecure для Android. Пачытайце https://otr.cypherpunks.ca/ каб атрымаць больш інфармацыі.</string>
+    <string name="otr_request">Суразмоўца паспрабаваў пачаць OTR шыфраваньне гутаркі, але ў вас не ўсталяваны плягін для яго падтрымкі. Усталюце Pidgin, Gajim ці Adium для PC/Mac і Qtunr ці ChatSecure для Android. Пачытайце https://otr.cypherpunks.ca/ каб атрымаць больш інфармацыі.</string>
     <string name="otr_start">Пачаць шыфраваньне</string>
     <string name="otr_unreadable_message">Зашыфраванае паведамленьне, якое вы даслалі, нечытэльнае</string>
     <string name="otr_not_decrypted_message">Немагчыма расшыфраваць паведамленьне</string>

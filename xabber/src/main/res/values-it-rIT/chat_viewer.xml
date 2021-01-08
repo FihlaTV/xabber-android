@@ -69,7 +69,7 @@
     <string name="otr_encryption">Crittografia OTR</string>
     <string name="otr_end">Ferma crittografia</string>
     <string name="otr_refresh">Riavvia crittografia</string>
-    <string name="otr_request">È stata richiesta una conversazione privata Off-the-Record ma non è presente un plugin che la supporti. Utilizza Pidgin, Gajim o Adium per PC/Mac e Xabber o ChatSecure per Android. Visita http://otr.cypherpunks.ca/ per maggiori informazioni.</string>
+    <string name="otr_request">È stata richiesta una conversazione privata Off-the-Record ma non è presente un plugin che la supporti. Utilizza Pidgin, Gajim o Adium per PC/Mac e Qtunr o ChatSecure per Android. Visita http://otr.cypherpunks.ca/ per maggiori informazioni.</string>
     <string name="otr_start">Avvia crittografia</string>
     <string name="otr_unreadable_message">Il messaggio crittografato che hai inviato è illeggibile</string>
     <string name="otr_not_decrypted_message">Il messaggio non può essere decrittato</string>

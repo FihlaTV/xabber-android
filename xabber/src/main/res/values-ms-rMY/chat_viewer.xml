@@ -69,7 +69,7 @@
     <string name="otr_encryption">Enkripsi OTR</string>
     <string name="otr_end">Henti enkripsi</string>
     <string name="otr_refresh">Mula semula enkripsi</string>
-    <string name="otr_request">Perbualan peribadi Tanpa Rekod telah diminta tetapi anda tiada plugin sokongan. Gunakan Pidgin, Gajim atau Adium untuk PC/Mac dan Xabber, Conversatiions atau ChatSecure untuk Android. Layari di http://otr.cypherpunks.ca/ untuk info lanjut.</string>
+    <string name="otr_request">Perbualan peribadi Tanpa Rekod telah diminta tetapi anda tiada plugin sokongan. Gunakan Pidgin, Gajim atau Adium untuk PC/Mac dan Qtunr, Conversatiions atau ChatSecure untuk Android. Layari di http://otr.cypherpunks.ca/ untuk info lanjut.</string>
     <string name="otr_start">Mula enkripsi</string>
     <string name="otr_unreadable_message">Mesej enkripsi yang dihantar tidak boleh dibaca</string>
     <string name="otr_not_decrypted_message">Mesej tidak boleh dinyah enkripsi</string>

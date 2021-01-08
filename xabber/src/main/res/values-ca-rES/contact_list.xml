@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Usar la configuració general</string>
     <string name="show_offline_settings">Mostra els contactes fora de línia</string>
     <string name="start_at_boot">Inici automàtic</string>
-    <string name="start_at_boot_suggest">Voleu executar Xabber en iniciar? \nAixò es pot canviar a \"Configuració\" → \"Configuració de la connexió\" → \"Iniciar amb Android\"</string>
+    <string name="start_at_boot_suggest">Voleu executar Qtunr en iniciar? \nAixò es pot canviar a \"Configuració\" → \"Configuració de la connexió\" → \"Iniciar amb Android\"</string>
     <string name="contact_search_hint">Cercar contactes</string>
     <string name="sender_is_you">Vostè</string>
     <string name="xmpp_accounts">Comptes XMPP</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Desbloquejar tots</string>
     <string name="unblock_selected">Desbloquejar seleccionats</string>
     <string name="dark_theme_suggest_dialog_title">Tria el teu destí</string>
-    <string name="dark_theme_suggest_dialog_message">El nou tema fosc està disponible per Xabber. Pots resistir la temptació d\'utilitzar-lo?</string>
+    <string name="dark_theme_suggest_dialog_message">El nou tema fosc està disponible per Qtunr. Pots resistir la temptació d\'utilitzar-lo?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Uneix-te al costat fosc</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Romandre en el costat de la llum</string>
     <string name="battery_optimization_disable_dialog_title">Optimització de bateria</string>
-    <string name="battery_optimization_disable_dialog_message">El dispositiu està fent algunes optimitzacions de bateria pesades en Xabber que podria conduir a retards en les notificacions o fins i tot pèrdua de missatges.\n\n. Ara se us demanarà que els deshabiliteu.</string>
+    <string name="battery_optimization_disable_dialog_message">El dispositiu està fent algunes optimitzacions de bateria pesades en Qtunr que podria conduir a retards en les notificacions o fins i tot pèrdua de missatges.\n\n. Ara se us demanarà que els deshabiliteu.</string>
     <string name="clear_log">Eliminar arxius vells de registre</string>
     <string name="open_log_file">Obrir</string>
     <string name="send_log_file">Enviar</string>

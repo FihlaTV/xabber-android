@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Χρησιμοποίησε γενικές ρυθμίσεις</string>
     <string name="show_offline_settings">Εμφάνιση επαφών χωρίς σύνδεση</string>
     <string name="start_at_boot">Εκτέλεση κατά την εκκίνηση</string>
-    <string name="start_at_boot_suggest">Θέλετε να εκτελέσετε το Xabber κατά την εκκίνηση; \nΑυτό μπορεί να αλλάξει από «Ρυθμίσεις» → «Ρυθμίσεις σύνδεσης» → «Έναρξη όταν το Android ξεκινάει»</string>
+    <string name="start_at_boot_suggest">Θέλετε να εκτελέσετε το Qtunr κατά την εκκίνηση; \nΑυτό μπορεί να αλλάξει από «Ρυθμίσεις» → «Ρυθμίσεις σύνδεσης» → «Έναρξη όταν το Android ξεκινάει»</string>
     <string name="contact_search_hint">Αναζήτηση επαφών</string>
     <string name="sender_is_you">Εσείς</string>
     <string name="xmpp_accounts">Λογαριασμοί XMPP</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Ξεμπλοκάρισμα όλων</string>
     <string name="unblock_selected">Ξεμπλοκάρισμα των επιλεγμένων</string>
     <string name="dark_theme_suggest_dialog_title">Επιλέξτε το πεπρωμένο σας</string>
-    <string name="dark_theme_suggest_dialog_message">Νέο σκούρο θέμα είναι τώρα διαθέσιμο για το Xabber. Μπορείτε να αντισταθείτε στον πειρασμό να το χρησιμοποιήσετε;</string>
+    <string name="dark_theme_suggest_dialog_message">Νέο σκούρο θέμα είναι τώρα διαθέσιμο για το Qtunr. Μπορείτε να αντισταθείτε στον πειρασμό να το χρησιμοποιήσετε;</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Μπείτε στη Σκοτεινή Πλευρά</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Μείνετε στη Σκοτεινή Πλευρά</string>
     <string name="battery_optimization_disable_dialog_title">Βελτιστοποίηση μπαταρίας</string>
-    <string name="battery_optimization_disable_dialog_message">Η συσκευή σας κάνει κάποιες βαριές βελτιστοποιήσεις στη μπαταρία για το Xabber οι οποίες μπορεί να οδηγήσουν σε καθυστερημένες ειδοποιήσεις ή ακόμη και σε απώλεια μηνυμάτωνs.\n\nΘα σας ζητηθεί τώρα να τις απενεργοποιήσετε.</string>
+    <string name="battery_optimization_disable_dialog_message">Η συσκευή σας κάνει κάποιες βαριές βελτιστοποιήσεις στη μπαταρία για το Qtunr οι οποίες μπορεί να οδηγήσουν σε καθυστερημένες ειδοποιήσεις ή ακόμη και σε απώλεια μηνυμάτωνs.\n\nΘα σας ζητηθεί τώρα να τις απενεργοποιήσετε.</string>
     <string name="clear_log">Διέγραψε τα παλιά αρχεία καταγραφής</string>
     <string name="open_log_file">Άνοιγμα</string>
     <string name="send_log_file">Αποστολή</string>

@@ -86,10 +86,10 @@
     <string name="account_mam_sync_current">Ikarga ang kasaysayan para sa nabuksang chat lamang</string>
     <string name="account_mam_sync_none">Huwag ikarga ang kasaysayan para kanino man</string>
     <string name="account_clear_history_on_exit_title">Linisin ang kasaysayan sa paglabas</string>
-    <string name="account_clear_history_on_exit_summary">Tanggalin lahat ng mga mensahe sa chat galing sa aparato bago lumabas sa Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Tanggalin lahat ng mga mensahe sa chat galing sa aparato bago lumabas sa Qtunr.</string>
     <string name="account_bookmarks">Mga Bookmark</string>
     <string name="account_bookmarks_summary">Listahan ng mga bookmarks para sa akawnt na ito</string>
     <string name="account_sync">Pag-synchronize</string>
-    <string name="account_sync_summary">Pag-synchronize sa Xabber Akawnt</string>
+    <string name="account_sync_summary">Pag-synchronize sa Qtunr Akawnt</string>
     <string name="bookmark_not_supported">Hindi sinusuportahan ng server ang mga bookmark</string>
 </resources>

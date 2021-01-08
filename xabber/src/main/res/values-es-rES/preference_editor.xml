@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Descargar todos los mensajes del archivo\nfunción de depuración. Puede tener fallos</string>
     <string name="debug_log_files_activity_title">Archivos de registro</string>
     <string name="debug_connection_errors_title">Mostrar errores de conexión\nVer problemas de conexión con \"pop-us\"</string>
-    <string name="debug_crash_reports_title">Compartir datos de fallos y diagnósticos\nAyuda a los desarrolladores de la aplicación a mejorar Xabber permitiendo compartir los datos de fallos y diagnósticos con ellos (por favor, reinicie la aplicación para aplicar los cambios).</string>
+    <string name="debug_crash_reports_title">Compartir datos de fallos y diagnósticos\nAyuda a los desarrolladores de la aplicación a mejorar Qtunr permitiendo compartir los datos de fallos y diagnósticos con ellos (por favor, reinicie la aplicación para aplicar los cambios).</string>
     <string name="debug_crash_reports_dialog_title">Datos de fallos y diagnóstico</string>
-    <string name="debug_crash_reports_dialog_message">Xabber recopila informes anónimos de errores. Usted puede desactivarlo en la configuración de depuración, pero obstaculizará nuestra capacidad de proporcionar una experiencia de mensajería confiable a los usuarios de Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr recopila informes anónimos de errores. Usted puede desactivarlo en la configuración de depuración, pero obstaculizará nuestra capacidad de proporcionar una experiencia de mensajería confiable a los usuarios de Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Ajustes</string>
     <string name="events_persistent">Icono en la barra de tareas\nMostrar una notificación persistente. Esta opción previene que Android deje de usar la aplicación desde la memoria</string>
     <string name="events_vibro">Vibración</string>
@@ -37,7 +37,7 @@
     <string name="interface_smiles_none">Sin emoticonos gráficos</string>
     <string name="preference_connection">Opciones de conexión\nOpciones de conexión</string>
     <string name="preference_contacts">Lista de contactos\nPersonalizar apariencia de la lista de contactos</string>
-    <string name="preference_debug">Ajustes de depuración\nAjustes que permiten a los desarrolladores seguir mejorando Xabber</string>
+    <string name="preference_debug">Ajustes de depuración\nAjustes que permiten a los desarrolladores seguir mejorando Qtunr</string>
     <string name="preference_editor">Ajustes</string>
     <string name="preference_events">Notificaciones\nOpciones de notificación</string>
     <string name="preference_interface">Opciones de Tema\nOpciones de Apariencia</string>
@@ -66,7 +66,7 @@
     <string name="connection_go_away_immediately">Inmediatamente al bloquearse la pantalla</string>
     <string name="connection_go_xa">\"Ausencia extendida\" al ausentarse\nPoner en \"Ausencia extendidad\" al bloquearse la pantalla</string>
     <string name="connection_priority">Ajustes de prioridad</string>
-    <string name="connection_start_at_boot">Iniciar al encender Android\nInicia la aplicación cuando se enciende Android. Esta opción no funciona si Xabber está instalada en la tarjeta SD.</string>
+    <string name="connection_start_at_boot">Iniciar al encender Android\nInicia la aplicación cuando se enciende Android. Esta opción no funciona si Qtunr está instalada en la tarjeta SD.</string>
     <string name="connection_wake_lock">Prevenir el modo suspesión\nPreviene que el teléfono se suspenda. Esto aumentará el uso de la batería.</string>
     <string name="connection_wifi_lock">Dejar la WiFi conectada\nDejar la WiFi activa en espera. Esto aumentará el uso de la batería</string>
     <string name="contacts_reset_offline">Eliminar los ajustes de presencia\nBorrar los ajustes individuales para grupos y cuentas</string>

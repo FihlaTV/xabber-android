@@ -9,7 +9,7 @@
     <string name="account_priority">الأولوية</string>
     <string name="account_resource">المورد</string>
     <string name="account_server_name">خادم</string>
-    <string name="account_xmpp_register_warning">يتوجب عليك<a href="http://www.google.com/#q=إنشاء حساب XMPP"> إنشاء حساب XMPP </a>قبل القيام بإضافته إلى Xabber!</string>
+    <string name="account_xmpp_register_warning">يتوجب عليك<a href="http://www.google.com/#q=إنشاء حساب XMPP"> إنشاء حساب XMPP </a>قبل القيام بإضافته إلى Qtunr!</string>
     <string name="account_user_name">اسم المستخدم</string>
     <string name="EMPTY_SERVER_NAME">لم يتم تحديد اسم الخادم</string>
     <string name="EMPTY_USER_NAME">لم يتم تحديد اسم المستخدم</string>
@@ -92,10 +92,10 @@
     <string name="account_mam_sync_current">تحميل السجلات للمحادثات المفتوحة فقط</string>
     <string name="account_mam_sync_none">لا تقم بتحميل السجلات لأي شخص</string>
     <string name="account_clear_history_on_exit_title">مسح السجلات عند الخروج</string>
-    <string name="account_clear_history_on_exit_summary">حذف كافة رسائل المحادثة من الجهاز قبل الخروج من Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">حذف كافة رسائل المحادثة من الجهاز قبل الخروج من Qtunr.</string>
     <string name="account_bookmarks">الإشارات المرجعيّة</string>
     <string name="account_bookmarks_summary">قائمة الإشارات المرجعية من هذا الحساب</string>
     <string name="account_sync">مزامنة</string>
-    <string name="account_sync_summary">المزامنة مع حساب Xabber</string>
+    <string name="account_sync_summary">المزامنة مع حساب Qtunr</string>
     <string name="bookmark_not_supported">المخدم لايدعم الإشارات المرجعية</string>
 </resources>

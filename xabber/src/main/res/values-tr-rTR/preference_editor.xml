@@ -24,7 +24,7 @@
     <string name="debug_connection_errors_title">Bağlantı hatalarını göster\nBağlantı hatalarını bildiren pencereleri göster</string>
     <string name="debug_crash_reports_title">Diagnotik hata dosyasını paylaşarak \n program geliştiricilerine yardım edebilirsiniz. Bu sayede Xabbler hata ayıklayarak daha iyi bir hale gelebilir. (Değişikliklerin etkin olabilmesi adına lütfen applikasyonu yeniden başlatınız.).</string>
     <string name="debug_crash_reports_dialog_title">Crash ve tanılama verileri</string>
-    <string name="debug_crash_reports_dialog_message">Xabber rastgele hata raporlarını toplar. Bu özelliği hata ayıklama ayarlarından devre dışı bırakabilirsiniz ama bu da size yaşatacağımız deneyimi ve bu deneyimin geliştirilmesini siz olmadan yapacağımız anlamına gelir. Xabber ve üyelerine yardım etmek adına bu özelliği kapatmayabilirsiniz.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr rastgele hata raporlarını toplar. Bu özelliği hata ayıklama ayarlarından devre dışı bırakabilirsiniz ama bu da size yaşatacağımız deneyimi ve bu deneyimin geliştirilmesini siz olmadan yapacağımız anlamına gelir. Qtunr ve üyelerine yardım etmek adına bu özelliği kapatmayabilirsiniz.</string>
     <string name="debug_crash_reports_dialog_settings_button">Ayarlar</string>
     <string name="events_persistent">Görev çubuğu ikonu\nKalıcı bildirimi göster. Bu seçenek Android\'in hafızayı boşaltırken bu uygulamayı kapatmasını engeller</string>
     <string name="events_vibro">Titreşim</string>
@@ -36,7 +36,7 @@
     <string name="interface_smiles_none">Grafik ifade yok</string>
     <string name="preference_connection">Bağlantı ayarları\nBağlantı ayarları</string>
     <string name="preference_contacts">Kişi listesi\nKişi listesinin görünümünü düzenle</string>
-    <string name="preference_debug">Hata ayıklama ayarları\nGeliştiricilerin Xabber\'ı geliştirmesine yardımcı olmak için ayarlar</string>
+    <string name="preference_debug">Hata ayıklama ayarları\nGeliştiricilerin Qtunr\'ı geliştirmesine yardımcı olmak için ayarlar</string>
     <string name="preference_editor">Ayarlar</string>
     <string name="preference_events">Bildirimler\nBildirim ayarları</string>
     <string name="preference_interface">Tema ayarları\nGörünüm ayarları</string>
@@ -63,7 +63,7 @@
     <string name="connection_go_away_immediately">Ekran kilidinden hemen sonra</string>
     <string name="connection_go_xa">Bekleme durumunda \"Uzun süreli uzak\"\nEkran kilitlendiğinde \"Uzun süreli uzak\" ol</string>
     <string name="connection_priority">Öncelik ayarları</string>
-    <string name="connection_start_at_boot">Android açılınca çalıştır\nAndroid açıldığında uygulamayı da çalıştır. Xabber SD kartta yüklü olduğunda bu işe yaramıyor.</string>
+    <string name="connection_start_at_boot">Android açılınca çalıştır\nAndroid açıldığında uygulamayı da çalıştır. Qtunr SD kartta yüklü olduğunda bu işe yaramıyor.</string>
     <string name="connection_wake_lock">Uyku modunu engelle\nCihazın uyku moduna geçmesini engeller. Bu batarya kullanımını artırabilir.</string>
     <string name="connection_wifi_lock">WiFi\'yi açık tut\nBeklerken kablosuz bağlantıyı açık tutar. Bu batarya kullanımını artırabilir</string>
     <string name="contacts_reset_offline">Çevrim dışı ayarları sıfırla\nGruplar ve hesaplar için kişisel ayarları sil</string>

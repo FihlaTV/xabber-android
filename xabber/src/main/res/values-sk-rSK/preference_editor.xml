@@ -22,9 +22,9 @@
     <string name="debug_log_files_title">Log súbory\nZoznam zapísaných log súborov.</string>
     <string name="debug_log_files_activity_title">Súbory denníka</string>
     <string name="debug_connection_errors_title">Zobraziť chyby pripojenia\nZobraziť pop-up o výnimkách pripojenia</string>
-    <string name="debug_crash_reports_title">Zdieľaj chybové a diagnostické data\nPomôž vývojárom vylepšiť Xabber app povolením zdieľania chybových a diagnostických dát s vývojármi (prosím reštartujte aplikáciu pre uplatnenie zmien).</string>
+    <string name="debug_crash_reports_title">Zdieľaj chybové a diagnostické data\nPomôž vývojárom vylepšiť Qtunr app povolením zdieľania chybových a diagnostických dát s vývojármi (prosím reštartujte aplikáciu pre uplatnenie zmien).</string>
     <string name="debug_crash_reports_dialog_title">Havárie a diagnostika údajov</string>
-    <string name="debug_crash_reports_dialog_message">Xabber zbiera anonymné chybové hlásenia. Môžete to zakázať v nastaveniach ladenia, ale budete brzďiť našu schopnosť poskytovať spoľahlivé skúsenosti správ používateľom Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr zbiera anonymné chybové hlásenia. Môžete to zakázať v nastaveniach ladenia, ale budete brzďiť našu schopnosť poskytovať spoľahlivé skúsenosti správ používateľom Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Nastavenia</string>
     <string name="events_persistent">Ikona v lište\nZobrazovať trvalú notifikáciu. Táto možnosť zabraňuje Androidu v samovoľnom ukončení aplikácie na pozadí</string>
     <string name="events_vibro">Vibrovať</string>
@@ -36,7 +36,7 @@
     <string name="interface_smiles_none">Bez grafických emotikon</string>
     <string name="preference_connection">Nastavenia pripojenia\nNastavenia pripojenia</string>
     <string name="preference_contacts">Zoznam kontaktov\nPrispôsobte si vzhľad zoznamu kontaktov</string>
-    <string name="preference_debug">Ladenie\nNastavenia, ktoré pomôžu vývojárom zlepšiť Xabber</string>
+    <string name="preference_debug">Ladenie\nNastavenia, ktoré pomôžu vývojárom zlepšiť Qtunr</string>
     <string name="preference_editor">Nastavenia</string>
     <string name="preference_events">Upozornenia\nNastavenia upozornení</string>
     <string name="preference_interface">Témy\nNastavenia vzhľadu</string>
@@ -63,7 +63,7 @@
     <string name="connection_go_away_immediately">Ihneď pri zámku obrazovky</string>
     <string name="connection_go_xa">\"Dlho preč\" počas nečinnosti\nNastaviť \"dlho preč\" po uzamknutí obrazovky</string>
     <string name="connection_priority">Nastavenia priority</string>
-    <string name="connection_start_at_boot">Spustiť pri štarte Androidu\nSpustí aplikáciu pri štarte Androidu. Nefunguje, pokiaľ je Xabber nainštalovaný na SD karte.</string>
+    <string name="connection_start_at_boot">Spustiť pri štarte Androidu\nSpustí aplikáciu pri štarte Androidu. Nefunguje, pokiaľ je Qtunr nainštalovaný na SD karte.</string>
     <string name="connection_wake_lock">Zabrániť režimu spánku\nBráni zariadeniu v spánku. Zvýši sa spotreba batérie.</string>
     <string name="connection_wifi_lock">Nechať WiFi zapnutú\nNechá WiFi aktívnu počas pokoja. Zvýši sa spotreba batérie</string>
     <string name="contacts_reset_offline">Vyresetovať offline nastavenia\nVyčistiť individuálne nastavenia pre skupiny a účty</string>

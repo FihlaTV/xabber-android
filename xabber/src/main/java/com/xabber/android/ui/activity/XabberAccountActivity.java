@@ -225,7 +225,7 @@ public class XabberAccountActivity extends BaseLoginActivity
         Toast.makeText(this, "Error while xmpp-auth: " + throwable.toString(), Toast.LENGTH_LONG).show();
     }
 
-    /** Xabber Account Info */
+    /** Qtunr Account Info */
 
     public void onLogoutClick(boolean deleteAccounts) {
         if (checkInternetOrShowError()) logout(deleteAccounts);

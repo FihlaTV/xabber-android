@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Använd allmänna inställningar</string>
     <string name="show_offline_settings">Visa frånkopplade kontakter</string>
     <string name="start_at_boot">Kör vid start</string>
-    <string name="start_at_boot_suggest">Vill du starta Xabber när enheten startar?\nDu kan ändra i \"Inställningar\" → \"Anslutningsinställningar\" → \"Starta\"</string>
+    <string name="start_at_boot_suggest">Vill du starta Qtunr när enheten startar?\nDu kan ändra i \"Inställningar\" → \"Anslutningsinställningar\" → \"Starta\"</string>
     <string name="contact_search_hint">Sök efter kontakter</string>
     <string name="sender_is_you">Du</string>
     <string name="xmpp_accounts">XMPP-konton</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Avblockera alla</string>
     <string name="unblock_selected">Avblockera valda</string>
     <string name="dark_theme_suggest_dialog_title">Välj ditt öde</string>
-    <string name="dark_theme_suggest_dialog_message">Ett nytt mörkt tema är nu tillgängligt för Xabber. Anslut till den mörka sidan eller bli kvar på den ljusa sidan?</string>
+    <string name="dark_theme_suggest_dialog_message">Ett nytt mörkt tema är nu tillgängligt för Qtunr. Anslut till den mörka sidan eller bli kvar på den ljusa sidan?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Mörk</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Ljus</string>
     <string name="battery_optimization_disable_dialog_title">Batterioptimering</string>
-    <string name="battery_optimization_disable_dialog_message">Enheten gör några tunga batterioptimeringar på Xabber som kan leda till försenade statusuppdateringar eller i värsta fall att meddelanden försvinner.\n\nDu blir nu tillfrågad om du vill stänga av batterioptimeringar.</string>
+    <string name="battery_optimization_disable_dialog_message">Enheten gör några tunga batterioptimeringar på Qtunr som kan leda till försenade statusuppdateringar eller i värsta fall att meddelanden försvinner.\n\nDu blir nu tillfrågad om du vill stänga av batterioptimeringar.</string>
     <string name="clear_log">Ta bort gamla loggfiler</string>
     <string name="open_log_file">Öppna</string>
     <string name="send_log_file">Skicka</string>

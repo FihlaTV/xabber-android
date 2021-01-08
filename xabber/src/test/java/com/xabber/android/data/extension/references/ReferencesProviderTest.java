@@ -56,7 +56,7 @@ public class ReferencesProviderTest {
                         "<bold/><italic/></reference>";
 
         stringMarkup2 = "<reference xmlns='urn:xmpp:reference:0' begin='34' end='37'  type='markup'>" +
-                        "<bold/><uri>https://www.xabber.com</uri></reference>";
+                        "<bold/><uri>https://www.qtune.io</uri></reference>";
 
         stringMention = "<reference xmlns='urn:xmpp:reference:0' begin='16' end='22' type='mention'>" +
                         "<uri>xmpp:juliet@capulet.lit</uri></reference>";
@@ -65,10 +65,10 @@ public class ReferencesProviderTest {
                       "<marker>&gt; </marker></reference>";
 
         stringUnknown = "<reference xmlns='urn:xmpp:reference:0' end='17' begin='0' type='unknown'></reference>";
-        stringNull = "<reference xmlns='https://xabber.com/protocol/reference' end='17' begin='0'></reference>";
+        stringNull = "<reference xmlns='https://qtune.io/protocol/reference' end='17' begin='0'></reference>";
 
         stringGroupchat = "<reference xmlns='urn:xmpp:reference:0' end='16' begin='0' type='groupchat'>" +
-                "<user xmlns='http://xabber.com/protocol/groupchat' id='kubsgzldk3csvtez'>" +
+                "<user xmlns='http://qtune.io/protocol/groupchat' id='kubsgzldk3csvtez'>" +
                 "<role>member</role>" +
                 "<nickname>john.doe</nickname>" +
                 "<badge />" +
@@ -151,7 +151,7 @@ public class ReferencesProviderTest {
         assertFalse(element.isItalic());
         assertFalse(element.isStrike());
         assertFalse(element.isUnderline());
-        assertEquals("https://www.xabber.com", element.getUri());
+        assertEquals("https://www.qtune.io", element.getUri());
     }
 
     @Test

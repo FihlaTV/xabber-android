@@ -69,7 +69,7 @@
     <string name="otr_encryption">Xifratge OTR</string>
     <string name="otr_end">Aturar el xifratge</string>
     <string name="otr_refresh">Reprendre el xifratge</string>
-    <string name="otr_request">S\'ha demanat una conversa privada OTR (Off The Record) però no tens el connector necessari. Pots usar Pidgin, Gajim o Adium per a PC/MAC i Xabber o ChatSecure per a Android. Més informació a http://otr.cypherpunks.ca/.</string>
+    <string name="otr_request">S\'ha demanat una conversa privada OTR (Off The Record) però no tens el connector necessari. Pots usar Pidgin, Gajim o Adium per a PC/MAC i Qtunr o ChatSecure per a Android. Més informació a http://otr.cypherpunks.ca/.</string>
     <string name="otr_start">Activar el xifratge</string>
     <string name="otr_unreadable_message">No es pot llegir el missatge xifrat que heu enviat</string>
     <string name="otr_not_decrypted_message">El missatge no es pot desxifrar</string>

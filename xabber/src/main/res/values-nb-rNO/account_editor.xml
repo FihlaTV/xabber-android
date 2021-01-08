@@ -9,7 +9,7 @@
     <string name="account_priority">Prioritet</string>
     <string name="account_resource">Ressurs</string>
     <string name="account_server_name">Tjener</string>
-    <string name="account_xmpp_register_warning">Du må <a href="http://www.google.com/#q=register an XMPP account">registrere en XMPP-konto</a> før du legger den til i Xabber.</string>
+    <string name="account_xmpp_register_warning">Du må <a href="http://www.google.com/#q=register an XMPP account">registrere en XMPP-konto</a> før du legger den til i Qtunr.</string>
     <string name="account_user_name">Brukernavn</string>
     <string name="EMPTY_SERVER_NAME">Tjenernavn ikke angitt</string>
     <string name="EMPTY_USER_NAME">Brukernavn ikke angitt</string>
@@ -86,10 +86,10 @@
     <string name="account_mam_sync_current">Bare last inn historikk for åpnet sludder</string>
     <string name="account_mam_sync_none">Ikke last inn historikk fra noen</string>
     <string name="account_clear_history_on_exit_title">Tøm historikk ved avslutning</string>
-    <string name="account_clear_history_on_exit_summary">Slett alle sludremeldinger fra enheten for Xabber avsluttes.</string>
+    <string name="account_clear_history_on_exit_summary">Slett alle sludremeldinger fra enheten for Qtunr avsluttes.</string>
     <string name="account_bookmarks">Bokmerker</string>
     <string name="account_bookmarks_summary">Liste over bokmerker for denne kontoen</string>
     <string name="account_sync">Synkronisering</string>
-    <string name="account_sync_summary">Synkronisering med Xabber-konto</string>
+    <string name="account_sync_summary">Synkronisering med Qtunr-konto</string>
     <string name="bookmark_not_supported">Tjeneren støtter ikke bokmerker.</string>
 </resources>

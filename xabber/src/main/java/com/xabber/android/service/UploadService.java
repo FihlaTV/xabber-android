@@ -53,8 +53,8 @@ public class UploadService extends IntentService {
 
     private final static String SERVICE_NAME = "Upload Service";
     private static final MediaType CONTENT_TYPE = MediaType.parse("application/octet-stream");
-    private static final String XABBER_COMPRESSED_DIR = "Xabber/temp";
-    private static final String XABBER_DIR = "Xabber";
+    private static final String XABBER_COMPRESSED_DIR = "Qtunr/temp";
+    private static final String XABBER_DIR = "Qtunr";
 
     public final static String KEY_RECEIVER = "receiver";
     public final static String KEY_ACCOUNT_JID = "account_jid";

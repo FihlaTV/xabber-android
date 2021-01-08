@@ -9,7 +9,7 @@
     <string name="account_priority">Приоритет</string>
     <string name="account_resource">Ресурс</string>
     <string name="account_server_name">Сервер</string>
-    <string name="account_xmpp_register_warning">Вы должны <a href="http://www.google.com/#q=зарегистрировать учётную запись XMPP">зарегистрировать учётную запись XMPP</a> перед тем, как добавить её в Xabber!</string>
+    <string name="account_xmpp_register_warning">Вы должны <a href="http://www.google.com/#q=зарегистрировать учётную запись XMPP">зарегистрировать учётную запись XMPP</a> перед тем, как добавить её в Qtunr!</string>
     <string name="account_user_name">Имя пользователя</string>
     <string name="EMPTY_SERVER_NAME">Не указано имя сервера</string>
     <string name="EMPTY_USER_NAME">Не указано имя пользователя</string>
@@ -97,11 +97,11 @@
     <string name="account_mam_sync_current">Загружать историю только для открытых чатов</string>
     <string name="account_mam_sync_none">Не загружать историю</string>
     <string name="account_clear_history_on_exit_title">Очищать историю при выходе</string>
-    <string name="account_clear_history_on_exit_summary">Удалять все сообщения с устройства перед выходом из Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Удалять все сообщения с устройства перед выходом из Qtunr.</string>
     <string name="account_bookmarks">Закладки</string>
     <string name="account_bookmarks_summary">Список закладок этой учётной записи</string>
     <string name="account_sync">Синхронизация</string>
-    <string name="account_sync_summary">Синхронизация с аккаунтом Xabber</string>
+    <string name="account_sync_summary">Синхронизация с аккаунтом Qtunr</string>
     <string name="bookmark_not_supported">Сервер не поддерживает закладки.</string>
 
     <string name="terminate_all_sessions_title">Вы точно хотите завершить все другие сеансы?</string>

@@ -9,7 +9,7 @@
     <string name="account_priority">עדיפות</string>
     <string name="account_resource">משאב</string>
     <string name="account_server_name">שרת</string>
-    <string name="account_xmpp_register_warning">עליך <a href="http://www.google.com/#q=register an XMPP account">לרשום חשבון XMPP</a> בטרם הוספתו ל־Xabber!</string>
+    <string name="account_xmpp_register_warning">עליך <a href="http://www.google.com/#q=register an XMPP account">לרשום חשבון XMPP</a> בטרם הוספתו ל־Qtunr!</string>
     <string name="account_user_name">שם משתמש</string>
     <string name="EMPTY_SERVER_NAME">שם שרת לא צוין</string>
     <string name="EMPTY_USER_NAME">שם משתמש לא צוין</string>
@@ -90,10 +90,10 @@
     <string name="account_mam_sync_current">לטעון את ההיסטוריה של השיחה בלבד</string>
     <string name="account_mam_sync_none">אין לטעון את ההיסטוריה בשביל אף אחד</string>
     <string name="account_clear_history_on_exit_title">נקה היסטוריה על יציאה</string>
-    <string name="account_clear_history_on_exit_summary">למחוק את כל ההודעות בצ\'אט מהתקן לפני היציאה Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">למחוק את כל ההודעות בצ\'אט מהתקן לפני היציאה Qtunr.</string>
     <string name="account_bookmarks">סימניות</string>
     <string name="account_bookmarks_summary">רשימת הסימניות עבור חשבון זה</string>
     <string name="account_sync">סינכרון</string>
-    <string name="account_sync_summary">סינכרון עם חשבון Xabber</string>
+    <string name="account_sync_summary">סינכרון עם חשבון Qtunr</string>
     <string name="bookmark_not_supported">השרת אינו תומך בסימניות</string>
 </resources>

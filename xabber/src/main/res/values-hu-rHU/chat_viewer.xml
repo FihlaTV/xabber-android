@@ -66,7 +66,7 @@
     <string name="otr_encryption">OTR titkosítás</string>
     <string name="otr_end">Titkosítás leállítása</string>
     <string name="otr_refresh">Titkosítás újraindítása</string>
-    <string name="otr_request">Off-the-Record magánbeszélgetésre hívtak, de nincs bővítményed, amely ezt támogatná. PC-n/Macen használd a Pidgin, Gajim vagy Adium programot, illetve Androidon a Xabber, Conversations vagy ChatSecure alkalmazást. További információért keresd fel a http://otr.cypherpunks.ca/ webhelyet.</string>
+    <string name="otr_request">Off-the-Record magánbeszélgetésre hívtak, de nincs bővítményed, amely ezt támogatná. PC-n/Macen használd a Pidgin, Gajim vagy Adium programot, illetve Androidon a Qtunr, Conversations vagy ChatSecure alkalmazást. További információért keresd fel a http://otr.cypherpunks.ca/ webhelyet.</string>
     <string name="otr_start">Titkosítás indítása</string>
     <string name="otr_unreadable_message">Az elküldött titkosított üzeneted olvashatatlan</string>
     <string name="otr_verification">OTR ellenőrzés</string>

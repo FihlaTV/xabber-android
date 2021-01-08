@@ -22,9 +22,9 @@
     <string name="debug_log_files_title">Loggfiler\nListe over skrevne loggfiler.</string>
     <string name="debug_log_files_activity_title">Loggfiler</string>
     <string name="debug_connection_errors_title">Vis tilkoblingsfeil\nVis oppsprettsvinduer med tilkoblingsunntak</string>
-    <string name="debug_crash_reports_title">Del kræsj- og diagnostikk-data\nHjelp utviklere å forbedre Xabber ved å dele kræsj- og diagnostikk-data med dem (start programmet på nytt slik at endringer kan tre i kraft).</string>
+    <string name="debug_crash_reports_title">Del kræsj- og diagnostikk-data\nHjelp utviklere å forbedre Qtunr ved å dele kræsj- og diagnostikk-data med dem (start programmet på nytt slik at endringer kan tre i kraft).</string>
     <string name="debug_crash_reports_dialog_title">Kræsj- og diagnostikk-data</string>
-    <string name="debug_crash_reports_dialog_message">Xabber innhenter anonyme feilrettingsrapporter. Du kan skru det av i feilrettings-innstillingene, men det vil forhindre vår mulighet til å tilby en robust meldingstjeneste til Xabber-brukere.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr innhenter anonyme feilrettingsrapporter. Du kan skru det av i feilrettings-innstillingene, men det vil forhindre vår mulighet til å tilby en robust meldingstjeneste til Qtunr-brukere.</string>
     <string name="debug_crash_reports_dialog_settings_button">Innstillinger</string>
     <string name="events_persistent">Ikon på oppgavelinjen\nVis vedvarende melding. Dette alternativet hindrer at Android fjerner programmet fra minnet</string>
     <string name="events_vibro">Vibrer</string>
@@ -36,7 +36,7 @@
     <string name="interface_smiles_none">Ingen grafiske uttrykksikoner</string>
     <string name="preference_connection">Tilkoblingsinnstillinger\nTilkoblingsinnstillinger</string>
     <string name="preference_contacts">Kontaktliste\nTilpass kontaktlistevisning</string>
-    <string name="preference_debug">Innstillinger for feilsøking\nInnstillinger for hjelp til utviklere med å forbedre Xabber</string>
+    <string name="preference_debug">Innstillinger for feilsøking\nInnstillinger for hjelp til utviklere med å forbedre Qtunr</string>
     <string name="preference_editor">Innstillinger</string>
     <string name="preference_events">Varsler\nVarslingsinnstillinger</string>
     <string name="preference_interface">Draktinnstillinger\nInnstillinger for utseende</string>
@@ -63,7 +63,7 @@
     <string name="connection_go_away_immediately">Umiddelbart når skjermen låses</string>
     <string name="connection_go_xa">\"Utvidet fravær\" ved lediggang\nVelg \"Utvidet fravær\" ved skjermlås</string>
     <string name="connection_priority">Prioriteringsinnstillinger</string>
-    <string name="connection_start_at_boot">Start ved oppstart av Android\nStart programmet når Android starter opp. Dette virker ikke når Xabber er installert på SD-kort.</string>
+    <string name="connection_start_at_boot">Start ved oppstart av Android\nStart programmet når Android starter opp. Dette virker ikke når Qtunr er installert på SD-kort.</string>
     <string name="connection_wake_lock">Hindre hvilemodus\nHindrer enheten fra gå i hvilemodus. Dette vil øke batteribruken.</string>
     <string name="connection_wifi_lock">Behold Wi-Fi på\nHold Wi-Fi aktivt i ventemodus. Dette øker batteriforbruket</string>
     <string name="contacts_reset_offline">Tilbakestill frakoblede innstillinger\nSlett individuelle innstillinger for grupper og kontoer</string>

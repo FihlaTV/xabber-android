@@ -56,7 +56,7 @@
     <string name="show_offline_normal">Use general settings</string>
     <string name="show_offline_settings">Show offline contacts</string>
     <string name="start_at_boot">Run at startup</string>
-    <string name="start_at_boot_suggest">Do you want to run Xabber at startup?\nThis can be changed in "Settings" → "Connection settings" → "Start when Android boots"</string>
+    <string name="start_at_boot_suggest">Do you want to run Qtunr at startup?\nThis can be changed in "Settings" → "Connection settings" → "Start when Android boots"</string>
     <string name="contact_search_hint">Search contacts</string>
     <string name="sender_is_you">You</string>
     <string name="xmpp_accounts">XMPP accounts</string>
@@ -70,12 +70,12 @@
     <string name="unblock_all">Unblock all</string>
     <string name="unblock_selected">Unblock selected</string>
     <string name="dark_theme_suggest_dialog_title">Choose your destiny</string>
-    <string name="dark_theme_suggest_dialog_message">New dark theme is now available for Xabber. Join the dark side or stay on the light side?</string>
+    <string name="dark_theme_suggest_dialog_message">New dark theme is now available for Qtunr. Join the dark side or stay on the light side?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Dark</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Light</string>
 
     <string name="battery_optimization_disable_dialog_title">Battery optimization</string>
-    <string name="battery_optimization_disable_dialog_message">Your device is doing some heavy battery optimizations on Xabber that might lead to delayed notifications or even message loss.\n\nYou will now be asked to disable those.</string>
+    <string name="battery_optimization_disable_dialog_message">Your device is doing some heavy battery optimizations on Qtunr that might lead to delayed notifications or even message loss.\n\nYou will now be asked to disable those.</string>
 
     <string name="clear_log">Delete old log files</string>
     <string name="open_log_file">Open</string>

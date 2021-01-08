@@ -6,7 +6,7 @@ import org.jivesoftware.smack.util.XmlStringBuilder;
 public class RefUser implements ExtensionElement {
 
     public static final String ELEMENT            = "user";
-    public static final String NAMESPACE          = "http://xabber.com/protocol/groupchat";
+    public static final String NAMESPACE          = "http://qtune.io/protocol/groupchat";
     public static final String ATTR_ID            = "id";
 
     public static final String ELEMENT_JID        = "jid";

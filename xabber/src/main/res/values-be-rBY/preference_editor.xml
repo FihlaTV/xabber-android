@@ -18,7 +18,7 @@
     <string name="debug_log_files_title">Файлы журналу\nСьпіс захаваных файлаў журналу.</string>
     <string name="debug_log_files_activity_title">Файлы журналу</string>
     <string name="debug_crash_reports_dialog_title">Збор дыягнастычнай інфармацыі</string>
-    <string name="debug_crash_reports_dialog_message">Xabber зьбірае ананімныя паведамленьні пра памылкі. Вы можаце выключыць іх ў наладках ладкаваньня, але гэта зьнізіць зробіць нам распрацоўку больш цяжкай.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr зьбірае ананімныя паведамленьні пра памылкі. Вы можаце выключыць іх ў наладках ладкаваньня, але гэта зьнізіць зробіць нам распрацоўку больш цяжкай.</string>
     <string name="debug_crash_reports_dialog_settings_button">Наладкі</string>
     <string name="events_persistent">Іконка на панэлі задач\nЗаўжды паказваць. Калі уключана, праграма не будзе зачыняцца, калі на прыладзе мала аператыўнай памяці</string>
     <string name="events_vibro">Вібрацыя</string>
@@ -30,7 +30,7 @@
     <string name="interface_smiles_none">Адключыць графічныя смайлы</string>
     <string name="preference_connection">Наладкі падлучэньня\nНаладкі варыянтаў падлучэньня</string>
     <string name="preference_contacts">Сьпіс суразмоўцаў\nНаладкі выгляду сьпісу суразмоўцаў</string>
-    <string name="preference_debug">Наладкі ладкаваньня\nАбярыце гэты пункт, калі хочаце дапамагчы распрацоўшчыкам зрабіць Xabber яшчэ лепей!</string>
+    <string name="preference_debug">Наладкі ладкаваньня\nАбярыце гэты пункт, калі хочаце дапамагчы распрацоўшчыкам зрабіць Qtunr яшчэ лепей!</string>
     <string name="preference_editor">Наладкі</string>
     <string name="preference_events">Абвесткі\nНаладкі абвестак</string>
     <string name="preference_interface">Тэмы\nНаладкі зьнешняга выгляду</string>
@@ -51,7 +51,7 @@
     <string name="connection_go_away_immediately">Неадкладна пры блякаваньні экрану</string>
     <string name="connection_go_xa">\"Даўно няма\" калі неактыўны\nУсталёўваць статус \"Даўно няма\", калі экран заблякаваўся</string>
     <string name="connection_priority">Наладкі прыярытэтаў</string>
-    <string name="connection_start_at_boot">Запускаць адразу пасьля загрузкі Android\nЗапускаць адразу пасьля загрузкі Android. Не працуе, калі Xabber усталяваны на SD картку.</string>
+    <string name="connection_start_at_boot">Запускаць адразу пасьля загрузкі Android\nЗапускаць адразу пасьля загрузкі Android. Не працуе, калі Qtunr усталяваны на SD картку.</string>
     <string name="connection_wake_lock">Не дазваляць засынаць\nХутчэй разраджае батарэю.</string>
     <string name="connection_wifi_lock">Трымаць WiFi уключаным\nНе дазваляць аўтаматычна адключаць WiFi, калі ніхто не карыстаецца прыладай. Хутчэй разраджае батарэю</string>
     <string name="contacts_reset_offline">Скінуць наладкі для офлайн сьпісу\nВыдаліць індывідуальныя наладкі адлюстраваньня суразмоўцаў офлайн для групаў і рахункаў</string>

@@ -19,12 +19,12 @@ public class WakeLockManager {
     static {
         WIFI_LOCK = ((WifiManager) Application.getInstance().getApplicationContext()
                 .getSystemService(Context.WIFI_SERVICE))
-                .createWifiLock(WifiManager.WIFI_MODE_FULL, "Xabber Wifi Lock");
+                .createWifiLock(WifiManager.WIFI_MODE_FULL, "Qtunr Wifi Lock");
         WIFI_LOCK.setReferenceCounted(false);
 
         WAKE_LOCK = ((PowerManager) Application.getInstance()
                 .getSystemService(Context.POWER_SERVICE))
-                .newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "Xabber Wake Lock");
+                .newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "Qtunr Wake Lock");
         WAKE_LOCK.setReferenceCounted(false);
     }
 

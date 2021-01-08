@@ -84,10 +84,10 @@
     <string name="account_mam_sync_current">Laad geschiedenis voor alle geopende chats</string>
     <string name="account_mam_sync_none">Geen geschiedenis laden voor niemand</string>
     <string name="account_clear_history_on_exit_title">Geschiedenis wissen bij afsluiten</string>
-    <string name="account_clear_history_on_exit_summary">Alle chatberichten van apparaat verwijderen voordat u Xabber afsluit.</string>
+    <string name="account_clear_history_on_exit_summary">Alle chatberichten van apparaat verwijderen voordat u Qtunr afsluit.</string>
     <string name="account_bookmarks">Bladwijzers</string>
     <string name="account_bookmarks_summary">Bladwijzerlijst voor dit profiel</string>
     <string name="account_sync">Gelijkschakeling</string>
-    <string name="account_sync_summary">Gelijkschakelen met een Xabber-profiel</string>
+    <string name="account_sync_summary">Gelijkschakelen met een Qtunr-profiel</string>
     <string name="bookmark_not_supported">Server ondersteunt geen bladwijzers</string>
 </resources>

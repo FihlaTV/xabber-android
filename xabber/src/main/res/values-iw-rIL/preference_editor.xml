@@ -21,9 +21,9 @@
     <string name="debug_log_files_title">להיכנס files\nList של קבצי יומן רישום בכתב.</string>
     <string name="debug_log_files_activity_title">קבצי יומן רישום</string>
     <string name="debug_connection_errors_title">הצג שגיאות תקשורת\nהצג חריגות תקשורת בחלונית קופצת</string>
-    <string name="debug_crash_reports_title">שתף התרסקות ואבחון מפתחי אפליקציות data\nHelp לשפר את Xabber בכך שהוא מאפשר לשתף נתונים התרסקות ואבחון איתם (בבקשה מחדש את היישום כדי להחיל שינויים).</string>
+    <string name="debug_crash_reports_title">שתף התרסקות ואבחון מפתחי אפליקציות data\nHelp לשפר את Qtunr בכך שהוא מאפשר לשתף נתונים התרסקות ואבחון איתם (בבקשה מחדש את היישום כדי להחיל שינויים).</string>
     <string name="debug_crash_reports_dialog_title">התרסקות ונתוני אבחון</string>
-    <string name="debug_crash_reports_dialog_message">Xabber אוסף תקלות אנונימיים. באפשרותך לבטל את זה בהגדרות של איתור באגים, אבל זה יפריע את היכולת שלנו לספק אמין ניסיון להעברת הודעות למשתמשים Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr אוסף תקלות אנונימיים. באפשרותך לבטל את זה בהגדרות של איתור באגים, אבל זה יפריע את היכולת שלנו לספק אמין ניסיון להעברת הודעות למשתמשים Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">הגדרות</string>
     <string name="events_persistent">צלמית בשורת המשימות\nהצג בקביעות את הצלמית. אפשרות זו תמנע ממערכת האנדרואיד לסגור את האפליקציה בשל מחסור זמני בזיכרון</string>
     <string name="events_vibro">רטט</string>
@@ -35,7 +35,7 @@
     <string name="interface_smiles_none">בלי רגשונים גרפיים</string>
     <string name="preference_connection">הגדרות חיבור\nהגדרות חיבור</string>
     <string name="preference_contacts">רשימת אנשי קשר\nהתאמת הופעת רשימת קשר</string>
-    <string name="preference_debug">הגדרות באגים \ n הגדרות כדי לסייע למפתחים לשפר את Xabber</string>
+    <string name="preference_debug">הגדרות באגים \ n הגדרות כדי לסייע למפתחים לשפר את Qtunr</string>
     <string name="preference_editor">הגדרות</string>
     <string name="preference_events">התראות\nהגדרות התראה ‎</string>
     <string name="preference_interface">הגדרות מוטיב\nהגדרות הופעה ‎</string>

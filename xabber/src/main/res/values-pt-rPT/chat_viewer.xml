@@ -64,7 +64,7 @@
     <string name="otr_encryption">Encriptação OTR</string>
     <string name="otr_end">Parar encriptação</string>
     <string name="otr_refresh">Reiniciar encriptação</string>
-    <string name="otr_request">Foi solicitada uma conversa privada \'Não Oficial\', mas não tem suporte para este plug-in de apoio. Use Adium, Gajim ou Pidgin para o PC/MAC e Xabber, Conversationsou ChatSecure para Android. Para mais informação vá a http://otr.cypherpunks.ca/.</string>
+    <string name="otr_request">Foi solicitada uma conversa privada \'Não Oficial\', mas não tem suporte para este plug-in de apoio. Use Adium, Gajim ou Pidgin para o PC/MAC e Qtunr, Conversationsou ChatSecure para Android. Para mais informação vá a http://otr.cypherpunks.ca/.</string>
     <string name="otr_start">Iniciar encriptação</string>
     <string name="otr_unreadable_message">A mensagem encriptada enviada está ilegível</string>
     <string name="otr_verification">Verificação OTR</string>

@@ -1,5 +1,5 @@
 
-# Xabber classes - many of them loaded via class loader
+# Qtune classes - many of them loaded via class loader
 -keep class com.xabber.** { *; }
 
 # Marshmallow removed Notification.setLatestEventInfo()

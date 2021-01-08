@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Usa impostazioni globali</string>
     <string name="show_offline_settings">Mostra contatti offline</string>
     <string name="start_at_boot">Esegui all\'avvio</string>
-    <string name="start_at_boot_suggest">Vuoi eseguire Xabber all\'avvio? \nPuoi modificare la tua scelta in \"Impostazioni\" → \"Impostazioni di connessione\" → \"Esegui all\'avvio di Android\"</string>
+    <string name="start_at_boot_suggest">Vuoi eseguire Qtunr all\'avvio? \nPuoi modificare la tua scelta in \"Impostazioni\" → \"Impostazioni di connessione\" → \"Esegui all\'avvio di Android\"</string>
     <string name="contact_search_hint">Cerca contatti</string>
     <string name="sender_is_you">Tu</string>
     <string name="xmpp_accounts">Account XMPP</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Sblocca tutti</string>
     <string name="unblock_selected">Sblocca contatti selezionati</string>
     <string name="dark_theme_suggest_dialog_title">Scegli il tuo destino</string>
-    <string name="dark_theme_suggest_dialog_message">Il nuovo tema scuro è disponibile per Xabber. Puoi resistere alla tentazione di usarlo?</string>
+    <string name="dark_theme_suggest_dialog_message">Il nuovo tema scuro è disponibile per Qtunr. Puoi resistere alla tentazione di usarlo?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Tema scuro</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Tema chiaro</string>
     <string name="battery_optimization_disable_dialog_title">Ottimizzazione batteria</string>
-    <string name="battery_optimization_disable_dialog_message">Il dispositivo sta facendo alcune pesanti ottimizzazioni di batteria su Xabber che potrebbero portare a ritardi nelle notifiche o anche a perdite di messaggi.\n\nOra ti verrà chiesto di disabilitare queste ottimizzazioni.</string>
+    <string name="battery_optimization_disable_dialog_message">Il dispositivo sta facendo alcune pesanti ottimizzazioni di batteria su Qtunr che potrebbero portare a ritardi nelle notifiche o anche a perdite di messaggi.\n\nOra ti verrà chiesto di disabilitare queste ottimizzazioni.</string>
     <string name="clear_log">Elimina i vecchi file di registro</string>
     <string name="open_log_file">Apri</string>
     <string name="send_log_file">Invia</string>

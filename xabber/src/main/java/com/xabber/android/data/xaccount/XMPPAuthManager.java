@@ -33,7 +33,7 @@ import rx.schedulers.Schedulers;
 public class XMPPAuthManager implements OnPacketListener, OnConnectedListener {
 
     private static final String LOG_TAG = XMPPAuthManager.class.getSimpleName();
-    private static final String URL_AUTH = "https://www.xabber.com/account/auth/login/";
+    private static final String URL_AUTH = "https://www.qtune.io/account/auth/login/";
 
     private static XMPPAuthManager instance;
 

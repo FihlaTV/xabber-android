@@ -44,7 +44,7 @@
   <string name="show_offline_normal">Използвай общите настройки</string>
   <string name="show_offline_settings">Покажи контактите извън линия</string>
   <string name="start_at_boot">Стартиране при включване на устройството</string>
-  <string name="start_at_boot_suggest">Пускане на Xabber с Android?\nМоже да се промени от \"Настройки\" → \"Настройки на свързване\" → \"Стартирай с Android\"</string>
+  <string name="start_at_boot_suggest">Пускане на Qtunr с Android?\nМоже да се промени от \"Настройки\" → \"Настройки на свързване\" → \"Стартирай с Android\"</string>
   <string name="contact_search_hint">Търси контакти</string>
   <string name="sender_is_you">Вие</string>
   <string name="xmpp_accounts">XMPP профили</string>
@@ -58,7 +58,7 @@
   <string name="unblock_all">Разблокирай всички</string>
   <string name="unblock_selected">Разблокирай избраните</string>
   <string name="dark_theme_suggest_dialog_title">Изберете Вашата съдба</string>
-  <string name="dark_theme_suggest_dialog_message">Достъпна е нова тъмна тема за Xabber. Можете ли да устоите на изкушението да я използвате?</string>
+  <string name="dark_theme_suggest_dialog_message">Достъпна е нова тъмна тема за Qtunr. Можете ли да устоите на изкушението да я използвате?</string>
   <string name="dark_theme_suggest_dialog_join_dark_side">Присъединете се към Тъмната страна</string>
   <string name="dark_theme_suggest_dialog_stay_on_light_side">Останете на Светлата страна</string>
   <string name="battery_optimization_disable_dialog_title">Пестене на енергия</string>

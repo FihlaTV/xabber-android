@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Usar opções gerais</string>
     <string name="show_offline_settings">Exibir contatos desconectados</string>
     <string name="start_at_boot">Executar na inicialização</string>
-    <string name="start_at_boot_suggest">Você que executar o Xabber ao iniciar o sistema?\nIsso pode ser alterado em \"Opções\" → \"Oções de conexão\" → \"Executar ao iniciar sistema\"</string>
+    <string name="start_at_boot_suggest">Você que executar o Qtunr ao iniciar o sistema?\nIsso pode ser alterado em \"Opções\" → \"Oções de conexão\" → \"Executar ao iniciar sistema\"</string>
     <string name="contact_search_hint">Pesquisar contatos</string>
     <string name="sender_is_you">Eu</string>
     <string name="xmpp_accounts">Contas XMPP</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Desbloquear todos</string>
     <string name="unblock_selected">Desbloquear selecionados</string>
     <string name="dark_theme_suggest_dialog_title">Escolha o seu destino</string>
-    <string name="dark_theme_suggest_dialog_message">Novo tema escuro está agora disponível para o Xabber. Junte-se ao lado negro ou vai ficar do lado da luz?</string>
+    <string name="dark_theme_suggest_dialog_message">Novo tema escuro está agora disponível para o Qtunr. Junte-se ao lado negro ou vai ficar do lado da luz?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Escuro</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Claro</string>
     <string name="battery_optimization_disable_dialog_title">Otimização de bateria</string>
-    <string name="battery_optimization_disable_dialog_message">Seu dispositivo está fazendo algumas otimizações pesadas de bateria no Xabber que podem levar a notificações atrasadas ou até mesmo a perda de mensagens. \n\nVocê será solicitado a desativá-las.</string>
+    <string name="battery_optimization_disable_dialog_message">Seu dispositivo está fazendo algumas otimizações pesadas de bateria no Qtunr que podem levar a notificações atrasadas ou até mesmo a perda de mensagens. \n\nVocê será solicitado a desativá-las.</string>
     <string name="clear_log">Excluir arquivos de log antigos</string>
     <string name="open_log_file">Abrir</string>
     <string name="send_log_file">Enviar</string>

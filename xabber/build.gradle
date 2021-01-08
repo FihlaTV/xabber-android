@@ -56,21 +56,21 @@ android {
 
         beta {
             dimension "build"
-            applicationId "com.xabber.android.beta"
+            applicationId "com.mvp.qtunex.android.beta"
             resValue 'string', 'application_package', applicationId
             multiDexEnabled true
         }
 
         prod {
             dimension "build"
-            applicationId "com.xabber.android"
+            applicationId "com.mvp.qtunex.android"
             resValue 'string', 'application_package', applicationId
             multiDexEnabled true
         }
 
         vip {
             dimension "build"
-            applicationId "com.xabber.androidvip"
+            applicationId "com.mvp.qtunex.androidvip"
             resValue 'string', 'application_package', applicationId
             multiDexEnabled true
         }
@@ -194,7 +194,7 @@ dependencies {
     implementation 'com.melnykov:floatingactionbutton:1.3.0'
 
     // crashlytics
-    storeImplementation("com.crashlytics.sdk.android:crashlytics:2.9.5@aar") {
+    storeImplementation("com.crashlytics.sdk.android:crashlytics:17.0.0@aar") {
         transitive = true
     }
 

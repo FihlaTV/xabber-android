@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Gumamit ng pangkalahatang mga settings</string>
     <string name="show_offline_settings">Ipakita ang offline na mga kontak</string>
     <string name="start_at_boot">Patakbuhin sa pagsisimula</string>
-    <string name="start_at_boot_suggest">Gusto mo bang patakbuhin ang Xabber sa pagsisimula?\nIto ay pwedeng mabago sa \"Mga Settings\" → \"Mga Settings ng Koneksyon\" → \"Simulan kapag nag-boot ang Android\"</string>
+    <string name="start_at_boot_suggest">Gusto mo bang patakbuhin ang Qtunr sa pagsisimula?\nIto ay pwedeng mabago sa \"Mga Settings\" → \"Mga Settings ng Koneksyon\" → \"Simulan kapag nag-boot ang Android\"</string>
     <string name="contact_search_hint">Maghanap ng mga kontak</string>
     <string name="sender_is_you">Ikaw</string>
     <string name="xmpp_accounts">XMPP Akawnt</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">I-unblock lahat</string>
     <string name="unblock_selected">I-unblock ang napili</string>
     <string name="dark_theme_suggest_dialog_title">Piliin ang iyong kapalaran</string>
-    <string name="dark_theme_suggest_dialog_message">Ang bagong madilim na tema ay magagamit na ngayon para sa Xabber. Sumali sa madilim na gilid o manatili sa liwanag na panig?</string>
+    <string name="dark_theme_suggest_dialog_message">Ang bagong madilim na tema ay magagamit na ngayon para sa Qtunr. Sumali sa madilim na gilid o manatili sa liwanag na panig?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Madilim</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Maliwanag</string>
     <string name="battery_optimization_disable_dialog_title">Pag-optimize ng baterya</string>
-    <string name="battery_optimization_disable_dialog_message">Ang iyong aparato ay gumagawa ng ilang mabigat sa baterya na optimization sa Xabber na maaaring humantong sa maantalang mga abiso o maging ang pagkawala ng mensahe.\n\nIkaw ay tatanungin ngayon upang hindi paganahin ang mga ito.</string>
+    <string name="battery_optimization_disable_dialog_message">Ang iyong aparato ay gumagawa ng ilang mabigat sa baterya na optimization sa Qtunr na maaaring humantong sa maantalang mga abiso o maging ang pagkawala ng mensahe.\n\nIkaw ay tatanungin ngayon upang hindi paganahin ang mga ito.</string>
     <string name="clear_log">Tanggalin ang mga lumang log file</string>
     <string name="open_log_file">Buksan</string>
     <string name="send_log_file">Ipadala</string>

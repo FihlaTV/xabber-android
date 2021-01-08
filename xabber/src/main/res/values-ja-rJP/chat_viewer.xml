@@ -69,7 +69,7 @@
     <string name="otr_encryption">オフレコ暗号化</string>
     <string name="otr_end">暗号化を停止</string>
     <string name="otr_refresh">暗号化を再開</string>
-    <string name="otr_request">オフレコのプライベートな会話が要求されましたが, サポートするプラグインありません. PC/Mac では Pidgin, Gajim か Adium を, Android では Xabber か ChatSecure を使用してください. さらに詳細な情報は http://otr.cypherpunks.ca/ を参照してください.</string>
+    <string name="otr_request">オフレコのプライベートな会話が要求されましたが, サポートするプラグインありません. PC/Mac では Pidgin, Gajim か Adium を, Android では Qtunr か ChatSecure を使用してください. さらに詳細な情報は http://otr.cypherpunks.ca/ を参照してください.</string>
     <string name="otr_start">暗号化を開始</string>
     <string name="otr_unreadable_message">送信した暗号化されたメッセージは読むことができません</string>
     <string name="otr_not_decrypted_message">メッセージを解読できません</string>

@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR encryption</string>
     <string name="otr_end">Itigil ang pag-encrypt</string>
     <string name="otr_refresh">I-restart ang pag-encrypt</string>
-    <string name="otr_request">Ang off-the-record na pribadong pag-uusap ay hiniling pero wala kang sumusuportang plugin. Gumamit ng Pidgin, Gajim o Adium para sa PC/Mac at Xabber, Conversations o ChatSecure para sa Android. Pumunta sa http://otr.cypherpunks.ca/ para sa marami pang impormasyon.</string>
+    <string name="otr_request">Ang off-the-record na pribadong pag-uusap ay hiniling pero wala kang sumusuportang plugin. Gumamit ng Pidgin, Gajim o Adium para sa PC/Mac at Qtunr, Conversations o ChatSecure para sa Android. Pumunta sa http://otr.cypherpunks.ca/ para sa marami pang impormasyon.</string>
     <string name="otr_start">Simulan ang pag-encrypt</string>
     <string name="otr_unreadable_message">Ang naka-encrypt na mensaheng iyong ipinadala ay hindi mababasa</string>
     <string name="otr_not_decrypted_message">Hindi ma-decrypt ang mensahe</string>

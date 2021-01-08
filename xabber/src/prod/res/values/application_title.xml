@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><!-- Copyright (c) 2013, Redsolution LTD. All rights reserved.
 
-     This file is part of Xabber project; you can redistribute it and/or
+     This file is part of Qtunr project; you can redistribute it and/or
      modify it under the terms of the GNU General Public License, Version 3.
 
-     Xabber is distributed in the hope that it will be useful, but
+     Qtunr is distributed in the hope that it will be useful, but
      WITHOUT ANY WARRANTY; without even the implied warranty of
      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
      See the GNU General Public License for more details.
@@ -12,8 +12,8 @@
      along with this program. If not, see http://www.gnu.org/licenses/.
 -->
 <resources>
-    <string name="application_title_short">Xabber</string>
-    <string name="application_title_full">Xabber</string>
-    <string name="caps_entity_node">https://www.xabber.com/</string>
+    <string name="application_title_short">Qtunr</string>
+    <string name="application_title_full">Qtunr</string>
+    <string name="caps_entity_node">https://www.qtune.io/</string>
     <string name="xabber_xmpp_host">xabber.org</string>
 </resources>

@@ -9,7 +9,7 @@
     <string name="account_priority">Prioridad</string>
     <string name="account_resource">Dispositivo</string>
     <string name="account_server_name">Servidor</string>
-    <string name="account_xmpp_register_warning">¡Usted debe <a href="http://www.google.com/#q=register an XMPP account"> registrar una cuenta XMPP</a> antes de agregarla a Xabber!</string>
+    <string name="account_xmpp_register_warning">¡Usted debe <a href="http://www.google.com/#q=register an XMPP account"> registrar una cuenta XMPP</a> antes de agregarla a Qtunr!</string>
     <string name="account_user_name">Usuario</string>
     <string name="EMPTY_SERVER_NAME">Nombre de servidor no especificado</string>
     <string name="EMPTY_USER_NAME">Usuario no especificado</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">Cargar historial sólo para chats abiertos</string>
     <string name="account_mam_sync_none">No cargar la historia de nadie</string>
     <string name="account_clear_history_on_exit_title">Borrar historial al salir</string>
-    <string name="account_clear_history_on_exit_summary">Borrar todos los mensajes de chat del dispositivo antes de salir de Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Borrar todos los mensajes de chat del dispositivo antes de salir de Qtunr.</string>
     <string name="account_bookmarks">Marcadores</string>
     <string name="account_bookmarks_summary">Lista de marcadores para esta cuenta</string>
     <string name="account_sync">Sincronización</string>
-    <string name="account_sync_summary">Sincronización con cuenta de Xabber</string>
+    <string name="account_sync_summary">Sincronización con cuenta de Qtunr</string>
     <string name="bookmark_not_supported">Servidor no admite marcadores.</string>
 </resources>

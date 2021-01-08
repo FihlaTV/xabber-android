@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Baixar tots els missatges de l\'arxiu\nFunció debug. Pot funcionar amb errors</string>
     <string name="debug_log_files_activity_title">Fitxers de registre</string>
     <string name="debug_connection_errors_title">Mostra errors deconnexió\nMostra excepcions de connexió en finestres emergents</string>
-    <string name="debug_crash_reports_title">Compartir dades de diagnosi i errors.\nAjuda els desenvolupadors a millorar Xabber compartint dades de diagnosi i errors amb ells (per favor, reinicieu l\'aplicació per aplicar els canvis).</string>
+    <string name="debug_crash_reports_title">Compartir dades de diagnosi i errors.\nAjuda els desenvolupadors a millorar Qtunr compartint dades de diagnosi i errors amb ells (per favor, reinicieu l\'aplicació per aplicar els canvis).</string>
     <string name="debug_crash_reports_dialog_title">Dades de diagnosi i errors</string>
-    <string name="debug_crash_reports_dialog_message">Xabber recull informes d\'error anònims. Vostè pot impossibilitar-ho en la configuració de depuració, però dificulta la nostra capacitat per proporcionar una experiència de missatgeria fiable als usuaris de Xabber.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr recull informes d\'error anònims. Vostè pot impossibilitar-ho en la configuració de depuració, però dificulta la nostra capacitat per proporcionar una experiència de missatgeria fiable als usuaris de Qtunr.</string>
     <string name="debug_crash_reports_dialog_settings_button">Configuració</string>
     <string name="events_persistent">Icona de la barra de tasques\nMostra notificació persistent. Aquesta opció impedeix que Android descarregui la app de la memòria</string>
     <string name="events_vibro">Vibració</string>
@@ -37,7 +37,7 @@
     <string name="interface_smiles_none">Deshabilitar emoticones gràfics</string>
     <string name="preference_connection">Configuració de la connexió\nConfiguració de la connexió</string>
     <string name="preference_contacts">Llista de contactes\nPersonalitzar la aparença de la llista de contactes</string>
-    <string name="preference_debug">Depurar settings\nSettings per ajudar als desenvolupadors millorar Xabber</string>
+    <string name="preference_debug">Depurar settings\nSettings per ajudar als desenvolupadors millorar Qtunr</string>
     <string name="preference_editor">Configuració</string>
     <string name="preference_events">Configuració de les notifications\nConfiguració de les notifications</string>
     <string name="preference_interface">Configuració de tema\nConfiguració de tema</string>
@@ -66,7 +66,7 @@
     <string name="connection_go_away_immediately">Immediatament al bloquejar la pantalla</string>
     <string name="connection_go_xa">\"Absència estesa\" Quan idle\nEstablir \"absència estesa\" al bloqueig de la pantalla</string>
     <string name="connection_priority">Configuració de la prioritat</string>
-    <string name="connection_start_at_boot">Començar quan Android arranca\nArrancar l\'aplicació a l\'arranc de Android. Això no funciona quan Xabber s\'ha instal·lat en la targeta SD.</string>
+    <string name="connection_start_at_boot">Començar quan Android arranca\nArrancar l\'aplicació a l\'arranc de Android. Això no funciona quan Qtunr s\'ha instal·lat en la targeta SD.</string>
     <string name="connection_wake_lock">Impedir el mode de suspensió\nPrevenir el mode de suspensió. Això augmentarà l\'ús de la bateria.</string>
     <string name="connection_wifi_lock">Mantenir actiu WiFi\nMantenir WiFi en espera. Això augmentarà l\'ús de la bateria</string>
     <string name="contacts_reset_offline">Reinicialitza la configuració fora de línia\nEsborra la configuració individual per a grups i comptes</string>

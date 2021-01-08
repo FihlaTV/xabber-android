@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR šifrování</string>
     <string name="otr_end">Zastavit šifrování</string>
     <string name="otr_refresh">Restartovat šifrování</string>
-    <string name="otr_request">Bylo vyžádáno off-the-Record soukromý rozhovor, ale nemáte zásuvný modul podporující. Použít Pidgin, Gajim nebo Adium pro PC/Mac a Xabber, rozhovory nebo ChatSecure pro Android. Přejděte na http://otr.cypherpunks.ca/ pro další informace.</string>
+    <string name="otr_request">Bylo vyžádáno off-the-Record soukromý rozhovor, ale nemáte zásuvný modul podporující. Použít Pidgin, Gajim nebo Adium pro PC/Mac a Qtunr, rozhovory nebo ChatSecure pro Android. Přejděte na http://otr.cypherpunks.ca/ pro další informace.</string>
     <string name="otr_start">Zahájit šifrování</string>
     <string name="otr_unreadable_message">Zašifrovaná zpráva, kterou jste odeslali, je nečitelná</string>
     <string name="otr_not_decrypted_message">Zprávu není možné dešifrovat</string>

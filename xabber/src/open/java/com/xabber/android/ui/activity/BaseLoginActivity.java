@@ -85,7 +85,7 @@ public abstract class BaseLoginActivity extends ManagedActivity implements XAcco
                 .subscribe(new Action1<XabberAccount>() {
                     @Override
                     public void call(XabberAccount s) {
-                        Log.d(LOG_TAG, "Xabber account loading from net: successfully");
+                        Log.d(LOG_TAG, "Qtunr account loading from net: successfully");
                         updateAccountInfo(s);
 
                         // if exist local accounts
@@ -97,7 +97,7 @@ public abstract class BaseLoginActivity extends ManagedActivity implements XAcco
                 }, new Action1<Throwable>() {
                     @Override
                     public void call(Throwable throwable) {
-                        Log.d(LOG_TAG, "Xabber account loading from net: error: " + throwable.toString());
+                        Log.d(LOG_TAG, "Qtunr account loading from net: error: " + throwable.toString());
                         String message = RetrofitErrorConverter.throwableToHttpError(throwable);
                         if (message != null && message.equals("Invalid token")) {
                             XabberAccountManager.getInstance().onInvalidToken();

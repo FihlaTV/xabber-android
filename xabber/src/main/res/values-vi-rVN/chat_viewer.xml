@@ -64,7 +64,7 @@
     <string name="otr_encryption">Mã hoá OTR</string>
     <string name="otr_end">Ngừng mã hoá</string>
     <string name="otr_refresh">Khởi động lại mã hoá</string>
-    <string name="otr_request">Đã yêu cầu hội thoại riêng tư nhưng bạn lại không có tiện ích hỗ trợ. Hãy dùng Pidgin, Gajim hoặc Adium cho PC/Mac và Xabber, Conversations hoặc ChatSecure cho Android. Ghé trang http://otr.cypherpunks.ca/ để biết thêm thông tin.</string>
+    <string name="otr_request">Đã yêu cầu hội thoại riêng tư nhưng bạn lại không có tiện ích hỗ trợ. Hãy dùng Pidgin, Gajim hoặc Adium cho PC/Mac và Qtunr, Conversations hoặc ChatSecure cho Android. Ghé trang http://otr.cypherpunks.ca/ để biết thêm thông tin.</string>
     <string name="otr_start">Bắt đầu mã hoá</string>
     <string name="otr_unreadable_message">Không thể đọc được tin nhắn mã hoá mà bạn gửi</string>
     <string name="otr_verification">Xác minh OTR</string>

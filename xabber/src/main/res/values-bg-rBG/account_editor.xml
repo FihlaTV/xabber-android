@@ -9,7 +9,7 @@
   <string name="account_priority">Приоритет</string>
   <string name="account_resource">Jabber ресурс</string>
   <string name="account_server_name">Сървър</string>
-    <string name="account_xmpp_register_warning"><a href="http://www.google.com/#q=register an XMPP account">Регистрирайте XMPP профил</a> преди да го добавите в Xabber!</string>
+    <string name="account_xmpp_register_warning"><a href="http://www.google.com/#q=register an XMPP account">Регистрирайте XMPP профил</a> преди да го добавите в Qtunr!</string>
     <string name="account_user_name">Потребител</string>
   <string name="EMPTY_SERVER_NAME">Името на сървъра не е въведено</string>
   <string name="EMPTY_USER_NAME">Потребителското име не е въведено</string>
@@ -85,10 +85,10 @@
   <string name="account_mam_sync_current">Зареди само историята на отворените чатове</string>
   <string name="account_mam_sync_none">Не зареждай историята</string>
   <string name="account_clear_history_on_exit_title">Изчисти историята</string>
-  <string name="account_clear_history_on_exit_summary">Изтрива всички съобщения от устройството преди затваряне на Xabber.</string>
+  <string name="account_clear_history_on_exit_summary">Изтрива всички съобщения от устройството преди затваряне на Qtunr.</string>
   <string name="account_bookmarks">Отметки</string>
   <string name="account_bookmarks_summary">Списък с отметките за този профил</string>
   <string name="account_sync">Синхронизиране</string>
-  <string name="account_sync_summary">Синхронизиране с Xabber профил</string>
+  <string name="account_sync_summary">Синхронизиране с Qtunr профил</string>
   <string name="bookmark_not_supported">Сървърът не поддържа отметки.</string>
 </resources>

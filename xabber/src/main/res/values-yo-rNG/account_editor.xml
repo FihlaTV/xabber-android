@@ -8,7 +8,7 @@
     <string name="account_port">Porti </string>
     <string name="account_priority">Ohun ìṣáájú </string>
     <string name="account_server_name">A pé ranse</string>
-    <string name="account_xmpp_register_warning">O gbodo ni ohun ìgbà ní wọlé lórí XMPP kò tó fi sì Xabber </string>
+    <string name="account_xmpp_register_warning">O gbodo ni ohun ìgbà ní wọlé lórí XMPP kò tó fi sì Qtunr </string>
     <string name="account_user_name">Oruko ti o fẹ je </string>
     <string name="EMPTY_SERVER_NAME">Oruko ifiranse kò ṣe tokasi</string>
     <string name="EMPTY_USER_NAME">Oruko ti o njẹ kò ṣe ń tokasi </string>

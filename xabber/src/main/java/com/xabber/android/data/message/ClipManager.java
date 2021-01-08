@@ -44,7 +44,7 @@ public class ClipManager {
             public void run() {
                 android.content.ClipboardManager clipboard = (android.content.ClipboardManager) Application.getInstance()
                         .getApplicationContext().getSystemService(Context.CLIPBOARD_SERVICE);
-                ClipData clip = ClipData.newPlainText("Xabber", text);
+                ClipData clip = ClipData.newPlainText("Qtunr", text);
                 if (clipboard !=null) clipboard.setPrimaryClip(clip);
             }
         });

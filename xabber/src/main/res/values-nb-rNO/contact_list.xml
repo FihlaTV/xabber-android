@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Bruk forvalgte innstillinger</string>
     <string name="show_offline_settings">Vis frakoblede kontakter</string>
     <string name="start_at_boot">Kjør ved oppstart</string>
-    <string name="start_at_boot_suggest">Ønsker du at Xabber skal kjøre ved oppstart?\nDette kan endres i \"Innstillinger\" → \"Tilkoblingsinnstillinger\" → \"Start når Android lastes\"</string>
+    <string name="start_at_boot_suggest">Ønsker du at Qtunr skal kjøre ved oppstart?\nDette kan endres i \"Innstillinger\" → \"Tilkoblingsinnstillinger\" → \"Start når Android lastes\"</string>
     <string name="contact_search_hint">Søk etter kontakter</string>
     <string name="sender_is_you">Deg</string>
     <string name="xmpp_accounts">XMPP-kontoer</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">Fjern all blokkering</string>
     <string name="unblock_selected">Fjern blokkering av valgte</string>
     <string name="dark_theme_suggest_dialog_title">Velg din skjebne</string>
-    <string name="dark_theme_suggest_dialog_message">En nytt mørk drakt er nå tilgjengelig for Xabber. Kan du motstå fristelsen?</string>
+    <string name="dark_theme_suggest_dialog_message">En nytt mørk drakt er nå tilgjengelig for Qtunr. Kan du motstå fristelsen?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Gå over til den mørke siden</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Bli værende på lysets side</string>
     <string name="battery_optimization_disable_dialog_title">Batterioptimisering</string>
-    <string name="battery_optimization_disable_dialog_message">Enheten din har iverksatt hissig batterioptimisering som kan lede til at merknader fra Xabber blir forsinket eller faktisk forsvinne.\n\nDu vil nå bli spurt om å skru av dette.</string>
+    <string name="battery_optimization_disable_dialog_message">Enheten din har iverksatt hissig batterioptimisering som kan lede til at merknader fra Qtunr blir forsinket eller faktisk forsvinne.\n\nDu vil nå bli spurt om å skru av dette.</string>
     <string name="clear_log">Slett gamle loggfiler</string>
     <string name="open_log_file">Åpne</string>
     <string name="send_log_file">Send</string>

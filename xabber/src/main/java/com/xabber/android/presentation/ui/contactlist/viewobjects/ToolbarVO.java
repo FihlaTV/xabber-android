@@ -99,7 +99,7 @@ public class ToolbarVO extends AbstractHeaderItem<ToolbarVO.ViewHolder> implemen
                 holder.tvTitle.setText(R.string.all_chats);
                 break;
             default:
-                holder.tvTitle.setText("Xabber");
+                holder.tvTitle.setText("Qtunr");
                 break;
         }
     }

@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR šifrovanie</string>
     <string name="otr_end">Zastaviť šifrovanie</string>
     <string name="otr_refresh">Reštartovať šifrovanie</string>
-    <string name="otr_request">Privátna konverzácia mimo záznam bola požadovaná, ale nemáte potrebné rozšírenie. Použite Pidgin, Gajim alebo Adium pre PC/Mac a Xabber alebo ChatSecure pre Android. Navštívte http://otr.cypherpunks.ca/ pre viac informácií.</string>
+    <string name="otr_request">Privátna konverzácia mimo záznam bola požadovaná, ale nemáte potrebné rozšírenie. Použite Pidgin, Gajim alebo Adium pre PC/Mac a Qtunr alebo ChatSecure pre Android. Navštívte http://otr.cypherpunks.ca/ pre viac informácií.</string>
     <string name="otr_start">Spustiť šifrovanie</string>
     <string name="otr_unreadable_message">Šifrovaná správa, ktorú ste poslali, je nečitateľná</string>
     <string name="otr_not_decrypted_message">Nie je možné dešifrovať správu</string>

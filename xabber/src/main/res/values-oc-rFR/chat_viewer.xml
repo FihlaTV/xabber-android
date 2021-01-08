@@ -64,7 +64,7 @@
     <string name="otr_encryption">Chiframent OTR</string>
     <string name="otr_end">Arrestar lo chiframent</string>
     <string name="otr_refresh">Reaviar lo chiframent</string>
-    <string name="otr_request">Una conversacion privada OTR (Off-The-Record) es estat demandada mas avètz pas lo plugin requesit. Utilizatz Pidgin, Gajim o Adium sus PC / Mac, e Xabber, Conversacions o ChatSecure sus Android. Allez sus http://otr.cypherpunks.ca/ per plus d\'informations.</string>
+    <string name="otr_request">Una conversacion privada OTR (Off-The-Record) es estat demandada mas avètz pas lo plugin requesit. Utilizatz Pidgin, Gajim o Adium sus PC / Mac, e Qtunr, Conversacions o ChatSecure sus Android. Allez sus http://otr.cypherpunks.ca/ per plus d\'informations.</string>
     <string name="otr_start">Aviar lo chiframent</string>
     <string name="otr_unreadable_message">Lo messatge chifrat qu\'avètz mandat es illegible</string>
     <string name="otr_verification">Verificacion OTR</string>

@@ -39,7 +39,7 @@ import java.util.List;
 
 public class BookmarksManager {
 
-    public static final String XABBER_NAME = "Xabber bookmark";
+    public static final String XABBER_NAME = "Qtunr bookmark";
     public static final String XABBER_URL = "Required to correctly sync bookmarks";
 
     private static BookmarksManager instance;
@@ -205,7 +205,7 @@ public class BookmarksManager {
             }
         }
 
-        // Check bookmarks on first run new Xabber. Adding all conferences to bookmarks.
+        // Check bookmarks on first run new Qtunr. Adding all conferences to bookmarks.
         if (!isBookmarkCheckedByXabber(account)) {
             // add conferences from phone to bookmarks
             Collection<AbstractChat> chats = MessageManager.getInstance().getChats(account);

@@ -24,7 +24,7 @@
     <string name="debug_connection_errors_title">Näytä yhteysvirheet\nNäytä yhteysvirheet ponnahdusikkunassa</string>
     <string name="debug_crash_reports_title">Jaa kaatumis ja diagnostiikkatietoja\nAuta sovelluskehittäjää parantamaan Xabberia sallimalla kaatumis ja diagnostiikka tietojen jakaminen (käynnistä sovellus uudelleen ottaaksesi käyttöön).</string>
     <string name="debug_crash_reports_dialog_title">Kaatumis ja diagnostiikkatiedot</string>
-    <string name="debug_crash_reports_dialog_message">Xabber kerää nimettömiä virhe ilmoituksia. Voit ottaa sen pois käytöstä virheenkorjaus asetuksita, mutta se hankaloittaa tarjoamaan parempaa viestintä kokemusta Xabber käyttäjille.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr kerää nimettömiä virhe ilmoituksia. Voit ottaa sen pois käytöstä virheenkorjaus asetuksita, mutta se hankaloittaa tarjoamaan parempaa viestintä kokemusta Qtunr käyttäjille.</string>
     <string name="debug_crash_reports_dialog_settings_button">Asetukset</string>
     <string name="events_persistent">Tehtäväpalkin kuvake\nNäytä pysyvä ilmoitus. Tämä asetus estää Androidia sulkemasta sovellusta</string>
     <string name="events_vibro">Värinä</string>
@@ -63,7 +63,7 @@
     <string name="connection_go_away_immediately">Näytön lukitusessa</string>
     <string name="connection_go_xa">\"Pitkään poissa\" kun toimettomana\nAseta \"Pitkään poissa\" näytön lukituttua</string>
     <string name="connection_priority">Prioriteetti asetukset</string>
-    <string name="connection_start_at_boot">Käynnistä kun Android käynnistyy\nKäynnistä sovellus Androidin käynnistyksen alussa. Tämä ei toimi jos Xabber on asennettuna SD kortille.</string>
+    <string name="connection_start_at_boot">Käynnistä kun Android käynnistyy\nKäynnistä sovellus Androidin käynnistyksen alussa. Tämä ei toimi jos Qtunr on asennettuna SD kortille.</string>
     <string name="connection_wake_lock">Estä lepotila\nEstä laitetta menemästä lepotilaan. Tämä nostaa akun käyttöä.</string>
     <string name="connection_wifi_lock">Pidä WiFi päällä\nPidä WiFi päällä valmiustilassa. Tämä nostaa akun käyttöä</string>
     <string name="contacts_reset_offline">Palauta offline asetukset\nTyhjennä yksittäiset asetukset ryhmille ja tileille</string>

@@ -9,7 +9,7 @@
     <string name="account_priority">Prioridade</string>
     <string name="account_resource">Recurso</string>
     <string name="account_server_name">Servidor</string>
-    <string name="account_xmpp_register_warning">Você deve <a href="http://www.google.com/#q=register an XMPP account">criar uma conta XMPP</a> antes de adicioná-la ao Xabber!</string>
+    <string name="account_xmpp_register_warning">Você deve <a href="http://www.google.com/#q=register an XMPP account">criar uma conta XMPP</a> antes de adicioná-la ao Qtunr!</string>
     <string name="account_user_name">Nome de usuário</string>
     <string name="EMPTY_SERVER_NAME">O nome do servidor não foi informado</string>
     <string name="EMPTY_USER_NAME">O usuário não foi informado</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">História de carga para bate-papo aberto apenas</string>
     <string name="account_mam_sync_none">Não carregar a histórico para</string>
     <string name="account_clear_history_on_exit_title">Limpar o histórico ao sair</string>
-    <string name="account_clear_history_on_exit_summary">Exclua todas as mensagens de bate-papo do dispositivo antes de sair Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Exclua todas as mensagens de bate-papo do dispositivo antes de sair Qtunr.</string>
     <string name="account_bookmarks">Favoritos</string>
     <string name="account_bookmarks_summary">Lista de favoritos para esta conta</string>
     <string name="account_sync">Sincronização</string>
-    <string name="account_sync_summary">Sincronização com a conta Xabber</string>
+    <string name="account_sync_summary">Sincronização com a conta Qtunr</string>
     <string name="bookmark_not_supported">Servidor não oferece suporte a favoritos</string>
 </resources>

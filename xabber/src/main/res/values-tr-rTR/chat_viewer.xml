@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR şifreleme</string>
     <string name="otr_end">Şifrelemeyi durdur</string>
     <string name="otr_refresh">Şifrelemeyi yeniden başlat</string>
-    <string name="otr_request">Kayıt dışı özel konuşma isteniyor ama bunu destekleyen ek sizde yok. PC/Mac\'de Pidgin, Gajim veya Adium; Android\'de Xabber veya ChatSecure kullanın. Daha fazla bilgi için http://otr.cypherpunks.ca adresine gidin.</string>
+    <string name="otr_request">Kayıt dışı özel konuşma isteniyor ama bunu destekleyen ek sizde yok. PC/Mac\'de Pidgin, Gajim veya Adium; Android\'de Qtunr veya ChatSecure kullanın. Daha fazla bilgi için http://otr.cypherpunks.ca adresine gidin.</string>
     <string name="otr_start">Şifrelemeyi başlat</string>
     <string name="otr_unreadable_message">Gönderdiğiniz şifreli mesaj okunabilir değil</string>
     <string name="otr_not_decrypted_message">Mesaj boş olamaz</string>

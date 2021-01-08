@@ -51,7 +51,7 @@
     <string name="show_offline_normal">Použít obecná nastavení</string>
     <string name="show_offline_settings">Zobrazovat odpojené kontakty</string>
     <string name="start_at_boot">Spustit při startu</string>
-    <string name="start_at_boot_suggest">Přejete spustit Xabber při startu?\nLze změnit v \"Nastavení\" → \"Nastavení připojení\" → \"Spustit při staru Androidu\"</string>
+    <string name="start_at_boot_suggest">Přejete spustit Qtunr při startu?\nLze změnit v \"Nastavení\" → \"Nastavení připojení\" → \"Spustit při staru Androidu\"</string>
     <string name="contact_search_hint">Prohledat kontakty</string>
     <string name="sender_is_you">Vy</string>
     <string name="xmpp_accounts">Účty XMPP</string>
@@ -65,7 +65,7 @@
     <string name="unblock_all">Odblokovat vše</string>
     <string name="unblock_selected">Odblokovat vybrané</string>
     <string name="dark_theme_suggest_dialog_title">Vyber si svůj úděl</string>
-    <string name="dark_theme_suggest_dialog_message">Nové tmavé téma pro Xabber je nyní k dispozici. Dokážete odolat pokušení jej používat?</string>
+    <string name="dark_theme_suggest_dialog_message">Nové tmavé téma pro Qtunr je nyní k dispozici. Dokážete odolat pokušení jej používat?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Připojte se k Temné straně</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Zůstat na Světlé straně</string>
     <string name="battery_optimization_disable_dialog_title">Optimalizace baterie</string>

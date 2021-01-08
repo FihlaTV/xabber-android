@@ -272,13 +272,13 @@ public class XabberAccountManager implements OnLoadListener {
     }
 
     private void handleSuccessGetAccount(@NonNull XabberAccount xabberAccount, boolean needUpdateSettings) {
-        Log.d(LOG_TAG, "Xabber account loading from net: successfully");
+        Log.d(LOG_TAG, "Qtunr account loading from net: successfully");
         setAccount(xabberAccount);
         if (needUpdateSettings) updateAccountSettings();
     }
 
     private void handleErrorGetAccount(Throwable throwable) {
-        Log.d(LOG_TAG, "Xabber account loading from net: error: " + throwable.toString());
+        Log.d(LOG_TAG, "Qtunr account loading from net: error: " + throwable.toString());
 
         // invalid token
         String message = RetrofitErrorConverter.throwableToHttpError(throwable);

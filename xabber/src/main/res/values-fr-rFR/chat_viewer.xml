@@ -69,7 +69,7 @@
     <string name="otr_encryption">Chiffrement OTR</string>
     <string name="otr_end">Arrêter le chiffrement</string>
     <string name="otr_refresh">Relancer le chiffrement</string>
-    <string name="otr_request">Une conversation privée OTR (Off-The-Record) a été demandée mais vous n\'avez pas le plugin requis. Utilisez Pidgin, Gajim ou Adium sur PC / Mac, et Xabber, Conversations ou ChatSecure sur Android. Allez sur http://otr.cypherpunks.ca/ pour plus d\'informations.</string>
+    <string name="otr_request">Une conversation privée OTR (Off-The-Record) a été demandée mais vous n\'avez pas le plugin requis. Utilisez Pidgin, Gajim ou Adium sur PC / Mac, et Qtunr, Conversations ou ChatSecure sur Android. Allez sur http://otr.cypherpunks.ca/ pour plus d\'informations.</string>
     <string name="otr_start">Démarrer le chiffrement</string>
     <string name="otr_unreadable_message">Le message chiffré que vous avez envoyé est illisible</string>
     <string name="otr_not_decrypted_message">Le message n\'a pas pu être déchiffré</string>

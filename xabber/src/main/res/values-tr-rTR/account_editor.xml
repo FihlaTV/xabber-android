@@ -87,10 +87,10 @@
     <string name="account_mam_sync_current">Sadece açık sohbet geçmişini yükle</string>
     <string name="account_mam_sync_none">Hiçkimse için sohbet geçmişi yükleme</string>
     <string name="account_clear_history_on_exit_title">Çıkışta geçmişi sil</string>
-    <string name="account_clear_history_on_exit_summary">Xabber\'den çıkmadan önce tüm sohbet geçmişini sil.</string>
+    <string name="account_clear_history_on_exit_summary">Qtunr\'den çıkmadan önce tüm sohbet geçmişini sil.</string>
     <string name="account_bookmarks">Yer İmleri</string>
     <string name="account_bookmarks_summary">Bu hesap için yer imleri listesi</string>
     <string name="account_sync">Senkronizasyon</string>
-    <string name="account_sync_summary">Xabber hesabı ile eşitleme</string>
+    <string name="account_sync_summary">Qtunr hesabı ile eşitleme</string>
     <string name="bookmark_not_supported">Sunucu yer işaretlerini desteklemiyor</string>
 </resources>

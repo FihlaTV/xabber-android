@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR-kryptering</string>
     <string name="otr_end">Avsluta kryptering</string>
     <string name="otr_refresh">Starta om kryptering</string>
-    <string name="otr_request">Off-the-record-konversation har begärts men du saknar en plugin för det. Använd Pidgin, Gajim eller Adium för PC/Mac eller använd Xabber, Conversations eller ChatSecure för Android. Besök http://otr.cypherpunks.ca/ för mer information.</string>
+    <string name="otr_request">Off-the-record-konversation har begärts men du saknar en plugin för det. Använd Pidgin, Gajim eller Adium för PC/Mac eller använd Qtunr, Conversations eller ChatSecure för Android. Besök http://otr.cypherpunks.ca/ för mer information.</string>
     <string name="otr_start">Starta kryptering</string>
     <string name="otr_unreadable_message">Det krypterade meddelandet du skickade är oläsbart</string>
     <string name="otr_not_decrypted_message">Meddelandet kan inte avkrypteras</string>

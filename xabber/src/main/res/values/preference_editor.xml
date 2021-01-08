@@ -26,13 +26,13 @@
     <string name="debug_download_all_messages_title">Download all messages from archive\nDebug function. May works with errors</string>
     <string name="debug_log_files_activity_title">Log files</string>
     <string name="debug_connection_errors_title">Show connection errors\nDisplay connection exceptions pop-ups</string>
-    <string name="debug_crash_reports_title">Share crash and diagnostics data\nHelp app developers improve Xabber by allowing to share crash and diagnostics data with them (please restart application to apply changes).</string>
-    <string name="debug_use_develop_api_title">Use development Xabber API\nChanges will be applied after restart</string>
+    <string name="debug_crash_reports_title">Share crash and diagnostics data\nHelp app developers improve Qtunr by allowing to share crash and diagnostics data with them (please restart application to apply changes).</string>
+    <string name="debug_use_develop_api_title">Use development Qtunr API\nChanges will be applied after restart</string>
     <string name="debug_sync_bookmarks_on_start_title">Sync bookmarks on start</string>
     <string name="debug_fetch_crowdfunding_feed_title">Fetch crowdfunding feed now</string>
 
     <string name="debug_crash_reports_dialog_title">Crash and diagnostics data</string>
-    <string name="debug_crash_reports_dialog_message">Xabber gathers anonymous bug reports. You may disable it in debug settings, but it will hinder our ability to provide reliable messaging experience to Xabber users.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr gathers anonymous bug reports. You may disable it in debug settings, but it will hinder our ability to provide reliable messaging experience to Qtunr users.</string>
     <string name="debug_crash_reports_dialog_settings_button">Settings</string>
 
     <string name="events_lightning">Light indication</string>
@@ -57,7 +57,7 @@
     <string name="preference_connection">Connection settings\nConnection settings</string>
     <string name="preference_contacts">Contact list\nCustomize contact list appearance</string>
     <string name="preference_chat_summary">Customize chat appearance</string>
-    <string name="preference_debug">Debug settings\nSettings to help developers improve Xabber</string>
+    <string name="preference_debug">Debug settings\nSettings to help developers improve Qtunr</string>
     <string name="preference_editor">Settings</string>
     <string name="preference_events">Notifications\nNotification settings</string>
     <string name="preference_interface">Theme settings\nAppearance settings</string>
@@ -90,7 +90,7 @@
     <string name="connection_go_away_immediately">Immediately on screen lock</string>
     <string name="connection_go_xa">"Extended away" when idle\nSet "Extended away" on screen lock</string>
     <string name="connection_priority">Priority settings</string>
-    <string name="connection_start_at_boot">Start when Android boots\nStart the application when Android boots. This doesn\'t work when Xabber is installed on SD card.</string>
+    <string name="connection_start_at_boot">Start when Android boots\nStart the application when Android boots. This doesn\'t work when Qtunr is installed on SD card.</string>
     <string name="connection_wake_lock">Prevent sleep mode\nPrevent the device from sleeping. This will increase battery usage.</string>
     <string name="connection_wifi_lock">Keep WiFi awake\nKeep WiFi active on standby. This will increase battery usage</string>
 
@@ -175,5 +175,5 @@
 
     <string name="events_ringtone_not_available">Ringtone not available</string>
     <string name="events_ringtone_not_available_summary">Please select another ringtone</string>
-    <string name="events_ringtone_not_available_summary_permission">Xabber need permission for read storage to access this ringtone\nPlease grant a permission or select another ringtone</string>
+    <string name="events_ringtone_not_available_summary_permission">Qtunr need permission for read storage to access this ringtone\nPlease grant a permission or select another ringtone</string>
 </resources>

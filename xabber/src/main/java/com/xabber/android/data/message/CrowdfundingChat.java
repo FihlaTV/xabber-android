@@ -16,8 +16,8 @@ import java.util.Date;
 
 public class CrowdfundingChat extends AbstractChat {
 
-    public final static String ACCOUNT = "user@xabber.com/something";
-    public final static String USER = "crowdfunding@xabber.com";
+    public final static String ACCOUNT = "user@qtune.io/something";
+    public final static String USER = "crowdfunding@qtune.io";
 
     private CrowdfundingMessage lastMessage;
     private int unreadCount;

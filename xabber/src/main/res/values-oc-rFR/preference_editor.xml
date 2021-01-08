@@ -21,7 +21,7 @@
     <string name="interface_smiles_none">Pas d\'emoticònas graficas</string>
     <string name="preference_connection">Paramètres de connexion\nParamètres de connexion</string>
     <string name="preference_contacts">Lista de contactes\nPersonalizar l\'aparéncia de la lista de contactes</string>
-    <string name="preference_debug">Paramètres de desbugatge\nParamètres per ajudar los desvolopaires a melhorar Xabber</string>
+    <string name="preference_debug">Paramètres de desbugatge\nParamètres per ajudar los desvolopaires a melhorar Qtunr</string>
     <string name="preference_editor">Paramètres</string>
     <string name="preference_events">Notificacions\nParamètres de notificacion</string>
     <string name="preference_interface">Aparéncia\nParamètres del tèma</string>
@@ -38,7 +38,7 @@
     <string name="connection_go_away_immediately">Tre lo verrolhatge de l\'ecran</string>
     <string name="connection_go_xa">Abséncia perlongada en cas d\'inactivitat\nPassar en abséncia perlongada al verrolhatge de l\'ecran</string>
     <string name="connection_priority">Paramètres de prioritat</string>
-    <string name="connection_start_at_boot">Aviar amb Android\nL\'aplicacion serà aviada a l\'aviada d\'Android. Fonciona pas quand Xabber es installat sus una carta SD.</string>
+    <string name="connection_start_at_boot">Aviar amb Android\nL\'aplicacion serà aviada a l\'aviada d\'Android. Fonciona pas quand Qtunr es installat sus una carta SD.</string>
     <string name="connection_wake_lock">Empachar la mesa en velha\nEmpacha l\'aparelh de se metre en velha. Descarga la batariá mai rapidament.</string>
     <string name="connection_wifi_lock">Gardar lo Wi-Fi actiu\nEmpacha lo Wi-Fi de se metre en velha. Descarga la batariá mai rapidament</string>
     <string name="contacts_reset_offline">Reïnicializar los paramètres fòra linha\nEscafar los paramètres fòra linha individuals des groupes e des comptes</string>

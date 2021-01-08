@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR-kryptering</string>
     <string name="otr_end">Stopp kryptering</string>
     <string name="otr_refresh">Omstart av kryptering</string>
-    <string name="otr_request">Du er blitt forespurt om en \"Off-the-Record\" privat samtale, men klienten din har ikke noe tillegg som støtter dette. Du kan bruke Pidgin, Gajim eller Adium for PC/Mac og Xabber, Conversations eller ChatSecure for Android. Se http://otr.cypherpunks.ca/ for mer informasjon.</string>
+    <string name="otr_request">Du er blitt forespurt om en \"Off-the-Record\" privat samtale, men klienten din har ikke noe tillegg som støtter dette. Du kan bruke Pidgin, Gajim eller Adium for PC/Mac og Qtunr, Conversations eller ChatSecure for Android. Se http://otr.cypherpunks.ca/ for mer informasjon.</string>
     <string name="otr_start">Start kryptering</string>
     <string name="otr_unreadable_message">Den krypterte meldingen du sendte er uleselig</string>
     <string name="otr_not_decrypted_message">Meldingen kan ikke krypteres</string>

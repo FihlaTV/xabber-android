@@ -83,10 +83,10 @@
     <string name="account_mam_sync_current">開いたチャットのみ履歴を読み込み</string>
     <string name="account_mam_sync_none">誰も履歴を読み込まない</string>
     <string name="account_clear_history_on_exit_title">終了時に履歴をクリア</string>
-    <string name="account_clear_history_on_exit_summary">Xabber を終了する前に、デバイスからすべてのチャットメッセージを削除します。</string>
+    <string name="account_clear_history_on_exit_summary">Qtunr を終了する前に、デバイスからすべてのチャットメッセージを削除します。</string>
     <string name="account_bookmarks">ブックマーク</string>
     <string name="account_bookmarks_summary">このアカウントのブックマークのリスト</string>
     <string name="account_sync">同期</string>
-    <string name="account_sync_summary">Xabber アカウントと同期</string>
+    <string name="account_sync_summary">Qtunr アカウントと同期</string>
     <string name="bookmark_not_supported">サーバーは、ブックマークがサポートされていません。</string>
 </resources>

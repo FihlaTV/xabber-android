@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Prenesite vsa sporočila iz arhiva\nFunkcija za odpravljanje napak. Lahko dela z napakami</string>
     <string name="debug_log_files_activity_title">Dnevniki</string>
     <string name="debug_connection_errors_title">Prikaži napake povezave\nPrikaži povezave razen pojavnih</string>
-    <string name="debug_crash_reports_title">Delite podatke o zrušitvi in ​​diagnostiki\nPomagajte razvijalcem programa Xabber in z njimi delite podatke o zrušitvi in ​​diagnostiki (znova zaženite aplikacijo za uporabo sprememb).</string>
+    <string name="debug_crash_reports_title">Delite podatke o zrušitvi in ​​diagnostiki\nPomagajte razvijalcem programa Qtunr in z njimi delite podatke o zrušitvi in ​​diagnostiki (znova zaženite aplikacijo za uporabo sprememb).</string>
     <string name="debug_crash_reports_dialog_title">Podatki o zrušitvah in diagnostiki</string>
-    <string name="debug_crash_reports_dialog_message">Xabber zbira anonimna poročila o napakah. Lahko onemogočite v nastavitah o napakah, vendar bo oviralo našo sposobnost, da zagotavljajo zanesljive izkušnje Xabber uporabnikom.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr zbira anonimna poročila o napakah. Lahko onemogočite v nastavitah o napakah, vendar bo oviralo našo sposobnost, da zagotavljajo zanesljive izkušnje Qtunr uporabnikom.</string>
     <string name="debug_crash_reports_dialog_settings_button">Nastavitve</string>
     <string name="events_persistent">Ikona opravilne vrstice\nPrikaži obstoječe obvestilo. Ta opcija preprečuje Androidu dvig aplikacije iz delovnega spomina</string>
     <string name="events_vibro">Vibriraj</string>
@@ -37,7 +37,7 @@
     <string name="interface_smiles_none">Brez grafičnih smeškov</string>
     <string name="preference_connection">Nastavitve povezave\nNastavitve povezave</string>
     <string name="preference_contacts">Seznam stikov\nPrilagodi prikaz seznama stikov</string>
-    <string name="preference_debug">Nastavitve odpravljanja napak\nNastavitve za povratno pomoč razvijalcem Xabber</string>
+    <string name="preference_debug">Nastavitve odpravljanja napak\nNastavitve za povratno pomoč razvijalcem Qtunr</string>
     <string name="preference_editor">Nastavitve</string>
     <string name="preference_events">Obvestila\nNastavitve obvestil</string>
     <string name="preference_interface">Nastavitev teme\nNastavitve videza</string>
@@ -66,7 +66,7 @@
     <string name="connection_go_away_immediately">Takojšen zaklep zaslona</string>
     <string name="connection_go_xa">\"Podaljšana stran\" ko je sproščena\nNastavi \"Podaljšana stran\" na zaklenjenem zaslonu</string>
     <string name="connection_priority">Prednostne nastavitve</string>
-    <string name="connection_start_at_boot">Zaženi ob zagonu Androida\nZaženi aplikacijo ob zagonu androida. To ne deluje ko je Xabber nameščen na SD kartici.</string>
+    <string name="connection_start_at_boot">Zaženi ob zagonu Androida\nZaženi aplikacijo ob zagonu androida. To ne deluje ko je Qtunr nameščen na SD kartici.</string>
     <string name="connection_wake_lock">Preprečite način mirovanja\nPreprečite napravi način mirovanja. To bo povečalo porabo baterije.</string>
     <string name="connection_wifi_lock">Obdrži WiFi povezan\nObdrži WiFi povezan v pripravljenosti. To bo povečalo porabo baterije</string>
     <string name="contacts_reset_offline">Ponastavite nastavitve brez povezave\nPočisti nastavitve v grupah in računih</string>

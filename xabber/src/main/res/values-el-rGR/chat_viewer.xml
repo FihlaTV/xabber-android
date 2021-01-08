@@ -69,7 +69,7 @@
     <string name="otr_encryption">Κρυπτογράφηση OTR</string>
     <string name="otr_end">Διακοπή κρυπτογράφησης</string>
     <string name="otr_refresh">Επανεκκίνηση κρυπτογράφησης</string>
-    <string name="otr_request">Έχει ζητηθεί ιδιωτική συνομιλία εκτός καταγραφής αλλά δεν έχετε υποστηριζόμενο plugin. Χρησιμοποιήστε το Pidgin, Gajim ή Adium για PC/Mac και Xabber, Conversations ή ChatSecure για το Android. Πηγαίνετε στο http://otr.cypherpunks.ca/ για περισσότερες πληροφορίες.</string>
+    <string name="otr_request">Έχει ζητηθεί ιδιωτική συνομιλία εκτός καταγραφής αλλά δεν έχετε υποστηριζόμενο plugin. Χρησιμοποιήστε το Pidgin, Gajim ή Adium για PC/Mac και Qtunr, Conversations ή ChatSecure για το Android. Πηγαίνετε στο http://otr.cypherpunks.ca/ για περισσότερες πληροφορίες.</string>
     <string name="otr_start">Έναρξη κρυπτογράφησης</string>
     <string name="otr_unreadable_message">Το κρυπτογραφημένο μήνυμα που στείλατε δεν είναι αναγνώσιμο</string>
     <string name="otr_not_decrypted_message">Το μήνυμα δε μπορεί να αποκρυπτογραφηθεί</string>

@@ -69,7 +69,7 @@
     <string name="otr_encryption">OTR шифрование</string>
     <string name="otr_end">Прекратить шифрование</string>
     <string name="otr_refresh">Заново начать шифрование</string>
-    <string name="otr_request">Собеседник запросил OTR шифрование беседы, но у вас не установлен плагин, который его поддерживает. Используйте Pidgin или Adium для PC/Mac и Xabber или GibberBot для Android. Посетите http://otr.cypherpunks.ca/ для получения более полной информации.</string>
+    <string name="otr_request">Собеседник запросил OTR шифрование беседы, но у вас не установлен плагин, который его поддерживает. Используйте Pidgin или Adium для PC/Mac и Qtunr или GibberBot для Android. Посетите http://otr.cypherpunks.ca/ для получения более полной информации.</string>
     <string name="otr_start">Начать шифрование</string>
     <string name="otr_unreadable_message">Зашифрованное сообщение, отправленное Вами, невозможно прочитать</string>
     <string name="otr_not_decrypted_message">Сообщение не может быть расшифровано</string>
@@ -110,7 +110,7 @@
     <string name="toast_archived_show">Архивные диалоги отображены</string>
     <string name="toast_archived_hide">Архивные диалоги скрыты</string>
     <string name="chat_notification_settings_title">Уведомления для этого чата</string>
-    <string name="error_file_upload_not_support">Похоже, сервер %1$s, не поддерживает передачу данных. Возможно, Xabber еще не получил информацию о сервере, или произошел какой-то сбой.\n\nОбновите информацию о сервере в разделе Настройки учетной записи → Информация о сервере. Если это не поможет, подумайте об использовании сервера, который наверняка поддерживает передачу файлов. Одним из таких серверов является xabber.org</string>
+    <string name="error_file_upload_not_support">Похоже, сервер %1$s, не поддерживает передачу данных. Возможно, Qtunr еще не получил информацию о сервере, или произошел какой-то сбой.\n\nОбновите информацию о сервере в разделе Настройки учетной записи → Информация о сервере. Если это не поможет, подумайте об использовании сервера, который наверняка поддерживает передачу файлов. Одним из таких серверов является xabber.org</string>
     <string name="button_join_conference">Присоединиться</string>
     <string name="showcase_chat_text_1">Смахните вправо чтобы открыть список недавних чатов</string>
     <string name="showcase_chat_text_2">Смахните влево чтобы увидеть данные собеседника</string>
@@ -121,6 +121,6 @@
     <string name="toast_could_not_open_file">Не удалось открыть файл</string>
     <string name="uploaded_files_count">Загрузка.. %s</string>
     <string name="unread_messages">Новые сообщения</string>
-    <string name="xabber_join_button">Поддержать Xabber</string>
+    <string name="xabber_join_button">Поддержать Qtunr</string>
     <string name="action_new_contact">Новый контакт</string>
 </resources>

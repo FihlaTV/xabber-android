@@ -21,9 +21,9 @@
   <string name="debug_log_files_title">Log файлове\nСписък със записаните Log файлове.</string>
   <string name="debug_log_files_activity_title">Log файлове</string>
   <string name="debug_connection_errors_title">Покажи грешките при свързване\nПоказва грешките при свързване в изкачащ прозорец</string>
-  <string name="debug_crash_reports_title">Сподели диагностичните данни\nПомага на разработчиците на Xabber като изпраща диагностични данни (нужно е растартиране на приложението).</string>
+  <string name="debug_crash_reports_title">Сподели диагностичните данни\nПомага на разработчиците на Qtunr като изпраща диагностични данни (нужно е растартиране на приложението).</string>
   <string name="debug_crash_reports_dialog_title">Диагностични данни</string>
-  <string name="debug_crash_reports_dialog_message">Xabber събира анонимни доклади за грешки. Може да изключите опцията в Debug настройките, но ще попречите на опитите ни да подобрим приложението.</string>
+  <string name="debug_crash_reports_dialog_message">Qtunr събира анонимни доклади за грешки. Може да изключите опцията в Debug настройките, но ще попречите на опитите ни да подобрим приложението.</string>
   <string name="debug_crash_reports_dialog_settings_button">Настройки</string>
   <string name="events_lightning">Подсветка\nПримигване на LED при уведомление</string>
   <string name="events_lightning_muc">LED индикация\nПримигване на LED при уведомление от конференции</string>
@@ -38,7 +38,7 @@
   <string name="interface_smiles_none">Без графични емотикони</string>
   <string name="preference_connection">Настройки на свързване</string>
   <string name="preference_contacts">Списък с контактите\nПерсонализиране на списъка с контакти</string>
-  <string name="preference_debug">Debug настройки\nНастройки за подпомагане на разработчиците да подобрят Xabber</string>
+  <string name="preference_debug">Debug настройки\nНастройки за подпомагане на разработчиците да подобрят Qtunr</string>
   <string name="preference_editor">Настройки</string>
   <string name="preference_events">Уведомления\nНастройки на уведомленията</string>
   <string name="preference_interface">Настройки на темата\nНастройки на интерфейса</string>
@@ -66,7 +66,7 @@
   <string name="connection_go_away_immediately">При заключване на екрана</string>
   <string name="connection_go_xa">\"Отдавна отсъстващ\" при неактивност\nЗадай \"Отдавна отсъстващ\" при заключване на екрана</string>
   <string name="connection_priority">Настройки на приоритет</string>
-  <string name="connection_start_at_boot">Запускане с Android\nЗапускане на приложението с Android. Няма да работи, ако Xabber е инсталиран на SD картата.</string>
+  <string name="connection_start_at_boot">Запускане с Android\nЗапускане на приложението с Android. Няма да работи, ако Qtunr е инсталиран на SD картата.</string>
   <string name="connection_wake_lock">Предотвратяване на спящ режим\nНе позволява на устройството да заспива. Това ще увеличи разхода на енергия.</string>
   <string name="connection_wifi_lock">Дръж Wi-Fi включен\nЩе поддържа Wi-Fi включен в режим на готовност. Това ще увеличи разхода на енергия</string>
   <string name="contacts_reset_offline">Нулирай офлайн настройките\nЩе изчисти индивидуалните настройки за групи и профили</string>

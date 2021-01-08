@@ -20,17 +20,17 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class HttpApiManager {
 
-    public static final String XABBER_FORGOT_PASS_URL = "https://www.xabber.com/account/auth/forgot-password/";
-    public static final String XABBER_SIGNUP_URL      = "https://www.xabber.com/account/auth/signup/";
-    private static final String XABBER_EMAIL_CONFIRM_URL = "https://www.xabber.com/account/emails/confirmation/";
-    private static final String XABBER_DEV_EMAIL_CONFIRM_URL = "http://dev.xabber.com/account/emails/confirmation/";
+    public static final String XABBER_FORGOT_PASS_URL = "https://www.qtune.io/account/auth/forgot-password/";
+    public static final String XABBER_SIGNUP_URL      = "https://www.qtune.io/account/auth/signup/";
+    private static final String XABBER_EMAIL_CONFIRM_URL = "https://www.qtune.io/account/emails/confirmation/";
+    private static final String XABBER_DEV_EMAIL_CONFIRM_URL = "http://dev.qtune.io/account/emails/confirmation/";
 
-    public static final String XABBER_API_URL = "https://api.xabber.com/api/v2/";
-    public static final String XABBER_DEV_API_URL = "https://api.dev.xabber.com/api/v2/";
-    private static final String XABBER_COM_URL = "https://www.xabber.com/";
-    private static final String XABBER_PUSH_API_URL = "https://push.xabber.com/api/";
-    private static final String CROWDFUNDING_URL = "https://crowdfunding.xabber.com/api/v1/";
-    private static final String CROWDFUNDING_DEV_URL = "https://crowdfunding.dev.xabber.com/api/v1/";
+    public static final String XABBER_API_URL = "https://api.qtune.io/api/v2/";
+    public static final String XABBER_DEV_API_URL = "https://api.dev.qtune.io/api/v2/";
+    private static final String XABBER_COM_URL = "https://www.qtune.io/";
+    private static final String XABBER_PUSH_API_URL = "https://push.qtune.io/api/";
+    private static final String CROWDFUNDING_URL = "https://crowdfunding.qtune.io/api/v1/";
+    private static final String CROWDFUNDING_DEV_URL = "https://crowdfunding.dev.qtune.io/api/v1/";
 
     private static IXabberApi xabberApi;
     private static IXabberCom xabberCom;

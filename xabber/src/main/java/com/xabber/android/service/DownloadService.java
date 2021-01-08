@@ -30,7 +30,7 @@ public class DownloadService extends IntentService {
     public static final int UPDATE_PROGRESS_CODE = 3132;
     public static final int ERROR_CODE = 3133;
     public static final int COMPLETE_CODE = 3134;
-    private static final String XABBER_DIR = "Xabber";
+    private static final String XABBER_DIR = "Qtunr";
 
     public final static String KEY_ATTACHMENT_ID = "attachment_id";
     public final static String KEY_RECEIVER = "receiver";

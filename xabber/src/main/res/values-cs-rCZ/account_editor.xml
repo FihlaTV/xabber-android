@@ -9,7 +9,7 @@
     <string name="account_priority">Priorita</string>
     <string name="account_resource">Zdroj</string>
     <string name="account_server_name">Server</string>
-    <string name="account_xmpp_register_warning">Je třeba <a href="http://www.google.com/#q=register an XMPP account">vytvořit XMPP účet</a> před přidáním do Xabber!</string>
+    <string name="account_xmpp_register_warning">Je třeba <a href="http://www.google.com/#q=register an XMPP account">vytvořit XMPP účet</a> před přidáním do Qtunr!</string>
     <string name="account_user_name">Uživatelské jméno</string>
     <string name="EMPTY_SERVER_NAME">Uveďte jméno serveru</string>
     <string name="EMPTY_USER_NAME">Uveďte uživatelské jméno</string>
@@ -84,10 +84,10 @@
     <string name="account_mam_sync_current">Načítat historii pouze pro otevřené konverzace</string>
     <string name="account_mam_sync_none">Nenačítat historii pro nikoho</string>
     <string name="account_clear_history_on_exit_title">Při ukončení vymazat historii</string>
-    <string name="account_clear_history_on_exit_summary">Odstraní všechny zprávy z historie před ukončením Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Odstraní všechny zprávy z historie před ukončením Qtunr.</string>
     <string name="account_bookmarks">Záložky</string>
     <string name="account_bookmarks_summary">Seznam záložek pro tento účet</string>
     <string name="account_sync">Synchronizace</string>
-    <string name="account_sync_summary">Synchronizace s účtem Xabber</string>
+    <string name="account_sync_summary">Synchronizace s účtem Qtunr</string>
     <string name="bookmark_not_supported">Server nepodporuje záložky.</string>
 </resources>

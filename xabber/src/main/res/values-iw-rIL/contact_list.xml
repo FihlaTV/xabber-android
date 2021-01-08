@@ -51,7 +51,7 @@
     <string name="show_offline_normal">השתמש בהגדרות כלליות</string>
     <string name="show_offline_settings">הצג אנשי קשר בלתי מקוונים</string>
     <string name="start_at_boot">הפעלה בעת האתחול</string>
-    <string name="start_at_boot_suggest">האם ברצונך להריץ את Xabber בעת הפעלה?\nזו יכולה להשתנות בתוך \"הגדרות\" ← \"הגדרות חיבור\" ← \"הרץ בהפעלה\" ‎</string>
+    <string name="start_at_boot_suggest">האם ברצונך להריץ את Qtunr בעת הפעלה?\nזו יכולה להשתנות בתוך \"הגדרות\" ← \"הגדרות חיבור\" ← \"הרץ בהפעלה\" ‎</string>
     <string name="contact_search_hint">חיפוש אנשי קשר</string>
     <string name="sender_is_you">אתה</string>
     <string name="xmpp_accounts">XMPP חשבונות</string>
@@ -65,11 +65,11 @@
     <string name="unblock_all">ביטול כל החסומים</string>
     <string name="unblock_selected">ביטול חסימת הנבחרים</string>
     <string name="dark_theme_suggest_dialog_title">בחר את גורלך</string>
-    <string name="dark_theme_suggest_dialog_message">ערכת נושא כהה חדשה זמינה כעת עבור Xabber. אתה יכול לעמוד בפיתוי להשתמש בה?</string>
+    <string name="dark_theme_suggest_dialog_message">ערכת נושא כהה חדשה זמינה כעת עבור Qtunr. אתה יכול לעמוד בפיתוי להשתמש בה?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">כהה</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">בהיר</string>
     <string name="battery_optimization_disable_dialog_title">אופטימיזציה של סוללה</string>
-    <string name="battery_optimization_disable_dialog_message">המכשיר עושה כמה אופטימיזציות בסוללה על Xabber שעשויים להוביל הודעות מושהה או אפילו הודעה loss.\n\nYou עכשיו יתבקש לבטל אותם.</string>
+    <string name="battery_optimization_disable_dialog_message">המכשיר עושה כמה אופטימיזציות בסוללה על Qtunr שעשויים להוביל הודעות מושהה או אפילו הודעה loss.\n\nYou עכשיו יתבקש לבטל אותם.</string>
     <string name="clear_log">מחק קבצי יומן הרישום הישן</string>
     <string name="open_log_file">פתח</string>
     <string name="send_log_file">שלח</string>

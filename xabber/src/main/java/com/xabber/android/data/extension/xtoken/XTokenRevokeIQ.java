@@ -8,7 +8,7 @@ public class XTokenRevokeIQ extends IQ {
 
     public static final String ELEMENT           = "revoke";
     public static final String ELEMENT_TOKEN_UID = "token-uid";
-    public static final String NAMESPACE         = "http://xabber.com/protocol/auth-tokens";
+    public static final String NAMESPACE         = "http://qtune.io/protocol/auth-tokens";
 
     private List<String> ids;
 

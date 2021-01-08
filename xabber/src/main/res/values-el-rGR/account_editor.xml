@@ -9,7 +9,7 @@
     <string name="account_priority">Προτεραιότητα</string>
     <string name="account_resource">Πόρος</string>
     <string name="account_server_name">Εξυπηρετητής</string>
-    <string name="account_xmpp_register_warning">Πρέπει να<a href="http://www.google.com/#q=register an XMPP account">καταχωρήσετε έναν λογαριασμό XMPP</a> πριν τον προσθέσετε στο Xabber!</string>
+    <string name="account_xmpp_register_warning">Πρέπει να<a href="http://www.google.com/#q=register an XMPP account">καταχωρήσετε έναν λογαριασμό XMPP</a> πριν τον προσθέσετε στο Qtunr!</string>
     <string name="account_user_name">Όνομα χρήστη</string>
     <string name="EMPTY_SERVER_NAME">Το όνομα του εξυπηρετητή δεν έχει καθοριστεί</string>
     <string name="EMPTY_USER_NAME">Το όνομα χρήστη δεν έχει καθοριστεί</string>
@@ -88,10 +88,10 @@
     <string name="account_mam_sync_current">Φόρτωση ιστορικού για τις ανοιχτές συνομιλίες</string>
     <string name="account_mam_sync_none">Μη φορτώσεις το ιστορικού για οποιονδήποτε</string>
     <string name="account_clear_history_on_exit_title">Εκκαθάριση ιστορικού κατά την έξοδο</string>
-    <string name="account_clear_history_on_exit_summary">Διέγραψε όλα τα μηνύματα συνομιλίας από τη συσκευή πριν από την έξοδο του Xabber.</string>
+    <string name="account_clear_history_on_exit_summary">Διέγραψε όλα τα μηνύματα συνομιλίας από τη συσκευή πριν από την έξοδο του Qtunr.</string>
     <string name="account_bookmarks">Σελιδοδείκτες</string>
     <string name="account_bookmarks_summary">Λίστα με σελιδοδείκτες για αυτόν το λογαριασμό</string>
     <string name="account_sync">Συγχρονισμός</string>
-    <string name="account_sync_summary">Συγχρονισμός με λογαριασμό Xabber</string>
+    <string name="account_sync_summary">Συγχρονισμός με λογαριασμό Qtunr</string>
     <string name="bookmark_not_supported">Ο διακομιστής δεν υποστηρίζει σελιδοδείκτες.</string>
 </resources>

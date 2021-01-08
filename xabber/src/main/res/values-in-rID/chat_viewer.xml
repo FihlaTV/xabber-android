@@ -69,7 +69,7 @@
     <string name="otr_encryption">Enkripsi OTR</string>
     <string name="otr_end">Hentikan enkripsi</string>
     <string name="otr_refresh">Mulai ulang enkripsi</string>
-    <string name="otr_request">Percakapan pribadi off-the-record telah diminta namun Anda tidak memiliki plugin yang mendukung. Gunakan Pidgin, Gajim atau Adium untuk PC/Mac dan Xabber, Conversations atau ChatSecure untuk Android. Kunjungi http://otr.cypherpunks.ca/ untuk informasi lebih lanjut.</string>
+    <string name="otr_request">Percakapan pribadi off-the-record telah diminta namun Anda tidak memiliki plugin yang mendukung. Gunakan Pidgin, Gajim atau Adium untuk PC/Mac dan Qtunr, Conversations atau ChatSecure untuk Android. Kunjungi http://otr.cypherpunks.ca/ untuk informasi lebih lanjut.</string>
     <string name="otr_start">Mulai enkripsi</string>
     <string name="otr_unreadable_message">Pesan terenkripsi yang Anda kirim tidak dapat dibaca</string>
     <string name="otr_not_decrypted_message">Pesan tidak dapat didekripsi</string>

@@ -69,7 +69,7 @@
     <string name="otr_encryption">تشفير OTR</string>
     <string name="otr_end">إيقاف التشفير</string>
     <string name="otr_refresh">إعادة تشغيل التشفير</string>
-    <string name="otr_request">تم طلب تشفير المحادثة باستخدام OTR لكن ليس لديك أداة تدعمها. استخدم Pidgin أو Gajim أو Adium لأنظمة الحاسوب، أو Xabber أو ChatSecure لأنظمة Android.\nتصفح http://otr.cypherpunks.ca/ لمزيد من المعلومات.</string>
+    <string name="otr_request">تم طلب تشفير المحادثة باستخدام OTR لكن ليس لديك أداة تدعمها. استخدم Pidgin أو Gajim أو Adium لأنظمة الحاسوب، أو Qtunr أو ChatSecure لأنظمة Android.\nتصفح http://otr.cypherpunks.ca/ لمزيد من المعلومات.</string>
     <string name="otr_start">ابدأ التشفير</string>
     <string name="otr_unreadable_message">الرسالة المشفرة التي أرسلتها ليست مقروؤة لدى الطرف الآخر</string>
     <string name="otr_not_decrypted_message">لا يمكن فك تشفير الرسالة</string>
@@ -120,8 +120,8 @@
     <string name="toast_could_not_open_file">لا يمكن فتح الملف</string>
     <string name="uploaded_files_count">جاري التحميل.. %s</string>
     <string name="unread_messages">رسائل غير مقروءة</string>
-    <string name="xabber_chat_title">مسؤول Xabber</string>
+    <string name="xabber_chat_title">مسؤول Qtunr</string>
     <string name="xabber_chat_description">تغذية الأخبار</string>
-    <string name="xabber_join_button">دعم Xabber</string>
+    <string name="xabber_join_button">دعم Qtunr</string>
     <string name="action_new_contact">جهة اتصال جديدة</string>
 </resources>

@@ -94,6 +94,6 @@
     <string name="account_bookmarks">Zakładki</string>
     <string name="account_bookmarks_summary">Lista zakładek dla tego konta</string>
     <string name="account_sync">Synchronizacja</string>
-    <string name="account_sync_summary">Synchronizacja z kontem Xabber</string>
+    <string name="account_sync_summary">Synchronizacja z kontem Qtunr</string>
     <string name="bookmark_not_supported">Serwer nie obsługuje zakładek.</string>
 </resources>

@@ -24,7 +24,7 @@
             android:layout_toStartOf="@id/tvDate"
             android:textColor="?android:textColorPrimary"
             android:textStyle="bold"
-            tools:text="Xabber for Web 1.0.131"
+            tools:text="Qtunr for Web 1.0.131"
             />
 
         <TextView

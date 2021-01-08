@@ -23,9 +23,9 @@
     <string name="debug_download_all_messages_title">Загрузить все сообщения из архива\nФункция отладки. Может работать с ошибками</string>
     <string name="debug_log_files_activity_title">Файлы журнала</string>
     <string name="debug_connection_errors_title">Отображать ошибки соединения\nПоказывать ошибки соединения во всплывающих окнах.</string>
-    <string name="debug_crash_reports_title">Сбор диагностической информации\nРазрешив сбор информации о сбоях вы поможете разработчикам улучшить Xabber (пожалуйста, перезапустите приложение, чтобы применить изменения).</string>
+    <string name="debug_crash_reports_title">Сбор диагностической информации\nРазрешив сбор информации о сбоях вы поможете разработчикам улучшить Qtunr (пожалуйста, перезапустите приложение, чтобы применить изменения).</string>
     <string name="debug_crash_reports_dialog_title">Сбор диагностической информации</string>
-    <string name="debug_crash_reports_dialog_message">Xabber собирает анонимные данные о сбоях приложения. Вы можете отключить этот функционал в настройках, но это затруднит нам разработку приложения.</string>
+    <string name="debug_crash_reports_dialog_message">Qtunr собирает анонимные данные о сбоях приложения. Вы можете отключить этот функционал в настройках, но это затруднит нам разработку приложения.</string>
     <string name="debug_crash_reports_dialog_settings_button">Настройки</string>
     <string name="events_lightning">Подсветка</string>
     <string name="events_lightning_summary">Мигать подсветкой для оповещения</string>
@@ -47,7 +47,7 @@
     <string name="preference_connection">Настройки подключения\nНастройки вариантов подключения</string>
     <string name="preference_contacts">Список контактов\nНастройки отображения списка контактов</string>
     <string name="preference_chat_summary">Настройки отображения чата</string>
-    <string name="preference_debug">Настройки отладки\nВыберите этот пункт, если хотите помочь разработчикам сделать Xabber ещё лучше</string>
+    <string name="preference_debug">Настройки отладки\nВыберите этот пункт, если хотите помочь разработчикам сделать Qtunr ещё лучше</string>
     <string name="preference_editor">Настройки</string>
     <string name="preference_events">Оповещения\nНастройки вариантов оповещения</string>
     <string name="preference_interface">Темы\nНастройки внешнего вида</string>
@@ -76,7 +76,7 @@
     <string name="connection_go_away_immediately">Сразу после выключения экрана</string>
     <string name="connection_go_xa">\"Давно отошел\" при неактивности\nУстанавливать статус \"Давно отошел\" при блокировке экрана</string>
     <string name="connection_priority">Настройки приоритета</string>
-    <string name="connection_start_at_boot">Запускать при включении телефона\nЗапускать приложение при включении телефона. Функция не будет работать, если Xabber установлен на SD-карту</string>
+    <string name="connection_start_at_boot">Запускать при включении телефона\nЗапускать приложение при включении телефона. Функция не будет работать, если Qtunr установлен на SD-карту</string>
     <string name="connection_wake_lock">Предотвращать спящий режим\nНе давать устройству перейти в спящий режим. Уменьшает время работы от аккумулятора.</string>
     <string name="connection_wifi_lock">Держать WiFi включенным\nПредотвращать отключение WiFi при простое. Уменьшает время работы от аккумулятора</string>
     <string name="contacts_reset_offline">Сброс настроек оффлайн\nОчистить индивидуальные настройки отображения контактов не в сети для групп и учетных записей</string>
@@ -150,5 +150,5 @@
 
     <string name="events_ringtone_not_available">Мелодия не доступна</string>
     <string name="events_ringtone_not_available_summary">Пожалуйста выберите другую мелодию</string>
-    <string name="events_ringtone_not_available_summary_permission">Xabber требуется разрешение на чтение памяти для доступа к мелодии\nПожалуйста выдайте разрешение или выберите другую мелодию</string>
+    <string name="events_ringtone_not_available_summary_permission">Qtunr требуется разрешение на чтение памяти для доступа к мелодии\nПожалуйста выдайте разрешение или выберите другую мелодию</string>
 </resources>

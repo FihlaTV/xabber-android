@@ -44,7 +44,7 @@
     <string name="show_offline_normal">Dùng cài đặt tổng quát</string>
     <string name="show_offline_settings">Hiện các liên hệ ngoại tuyến</string>
     <string name="start_at_boot">Chạy khi khởi động</string>
-    <string name="start_at_boot_suggest">Bạn có muốn chạy Xabber khi khởi động?\nCó thể thay đổi tính năng này trong \"Cài đặt\" → \"Cài đặt kết nối\" → \"Chạy khi Android khởi động\"</string>
+    <string name="start_at_boot_suggest">Bạn có muốn chạy Qtunr khi khởi động?\nCó thể thay đổi tính năng này trong \"Cài đặt\" → \"Cài đặt kết nối\" → \"Chạy khi Android khởi động\"</string>
     <string name="contact_search_hint">Tìm kiếm danh bạ</string>
     <string name="sender_is_you">Bạn</string>
     <string name="xmpp_accounts">Các tài khoản XMPP</string>
@@ -58,7 +58,7 @@
     <string name="unblock_all">Bỏ chặn tất cả</string>
     <string name="unblock_selected">Bỏ chặn liên hệ đã chọn</string>
     <string name="dark_theme_suggest_dialog_title">Hãy chọn lựa vận mệnh của bạn</string>
-    <string name="dark_theme_suggest_dialog_message">Đã có một nền tối mới cho Xabber. Bạn có thể cưỡng lại cám dỗ này không?</string>
+    <string name="dark_theme_suggest_dialog_message">Đã có một nền tối mới cho Qtunr. Bạn có thể cưỡng lại cám dỗ này không?</string>
     <string name="dark_theme_suggest_dialog_join_dark_side">Gia nhập Phe bóng tối</string>
     <string name="dark_theme_suggest_dialog_stay_on_light_side">Trung thành với Phe ánh sáng</string>
 </resources>
